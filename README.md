@@ -14,4 +14,4 @@ This project analyzes delivery performance and profitability for the European el
 - **Financial Impact:** Correlated delivery delays with profit margins to identify high-risk routes.
 
 ## Dashboard Preview
-![Dashboard Screenshot](./dashboard_screenshot.png)
+<img width="752" height="440" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/340f1693-0614-4553-aebc-d84c17cebeeb" />
