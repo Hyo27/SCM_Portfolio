@@ -1,0 +1,1275 @@
+"Category","Region","City","Ship_Mode","Real_Days","Sched_Days","Delay_Days","Profit","Sales"
+Consumer Electronics,Southern Europe,Perugia,Second Class,3,2,1,-50.58000183,252.8800049
+Consumer Electronics,Western Europe,Reims,Second Class,3,2,1,25.04000092,252.8800049
+Consumer Electronics,Western Europe,Bremerhaven,Second Class,3,2,1,68.68000031,252.8800049
+Consumer Electronics,Western Europe,Bielefeld,Second Class,6,2,4,78.08000183,252.8800049
+Computers,Northern Europe,London,Second Class,5,2,3,595.3499756,1500.0
+Computers,Northern Europe,Bradford,Second Class,5,2,3,55.79999924,1500.0
+Consumer Electronics,Northern Europe,Oldham,Second Class,2,2,0,6.900000095,252.8800049
+Consumer Electronics,Southern Europe,Madrid,Second Class,4,2,2,105.8600006,252.8800049
+Computers,Western Europe,Nancy,Second Class,5,2,3,86.0,1500.0
+Consumer Electronics,Western Europe,Laon,Second Class,6,2,4,22.76000023,252.8800049
+Consumer Electronics,Western Europe,Pontault-Combault,Second Class,3,2,1,101.0299988,252.8800049
+Consumer Electronics,Northern Europe,Edinburgh,Second Class,6,2,4,60.86999893,252.8800049
+Consumer Electronics,Southern Europe,Acerra,Second Class,5,2,3,73.45999908,252.8800049
+Consumer Electronics,Western Europe,Hanover,Second Class,5,2,3,39.88000107,252.8800049
+Consumer Electronics,Western Europe,Wilhelmshaven,Second Class,6,2,4,62.20999908,252.8800049
+Computers,Northern Europe,Letchworth,Second Class,5,2,3,90.0,1500.0
+Electronics,Northern Europe,Aylesbury,Second Class,4,2,2,12.52999973,44.99000168
+Electronics,Western Europe,Amsterdam,Second Class,4,2,2,10.03999996,44.99000168
+Electronics,Southern Europe,Fuenlabrada,Standard Class,3,4,-1,65.83000183,139.9499969
+Electronics,Western Europe,Viersen,Standard Class,5,4,1,52.43999863,159.9499969
+Electronics,Western Europe,Montpellier,Second Class,2,2,0,0.0,127.9599991
+Electronics,Northern Europe,Vantaa,Second Class,6,2,4,-1.389999986,27.98999977
+Electronics,Western Europe,Tourcoing,Standard Class,3,4,-1,-69.87000275,127.9599991
+Electronics,Eastern Europe,Lugansk,Standard Class,4,4,0,76.01999664,179.9600067
+Electronics,Western Europe,Hamburgo,Standard Class,2,4,-2,22.84000015,159.9499969
+Computers,Western Europe,Fontenay-aux-Roses,Standard Class,3,4,-1,82.41000366,1500.0
+Consumer Electronics,Southern Europe,Monza,Standard Class,2,4,-2,118.8499985,252.8800049
+Consumer Electronics,Southern Europe,Valladolid,Standard Class,4,4,0,79.66000366,252.8800049
+Computers,Southern Europe,Madrid,Standard Class,2,4,-2,599.25,1500.0
+Computers,Western Europe,Nieuwegein,Standard Class,5,4,1,410.8500061,1500.0
+Consumer Electronics,Southern Europe,Florence,Second Class,4,2,2,-126.8199997,252.8800049
+Computers,Western Europe,Viena,Second Class,6,2,4,281.25,1500.0
+Electronics,Northern Europe,Birmingham,Standard Class,5,4,1,55.27999878,127.9599991
+Electronics,Western Europe,Bayonne,Standard Class,4,4,0,56.09000015,207.9600067
+Electronics,Eastern Europe,Sumy,Standard Class,4,4,0,-108.8300018,191.9600067
+Electronics,Western Europe,Berl�n,Standard Class,4,4,0,32.58000183,111.9599991
+Electronics,Northern Europe,London,Standard Class,6,4,2,37.93000031,207.9600067
+Electronics,Western Europe,Halle,Standard Class,6,4,2,34.93000031,111.9599991
+Electronics,Southern Europe,Barcelona,Standard Class,5,4,1,42.56000137,207.9600067
+Electronics,Southern Europe,Brindisi,Standard Class,2,4,-2,44.15000153,127.9599991
+Electronics,Western Europe,Nice,Standard Class,3,4,-1,92.47000122,259.9500122
+Electronics,Eastern Europe,Liberec,Standard Class,6,4,2,12.81000042,159.9499969
+Electronics,Southern Europe,Capua,Standard Class,6,4,2,33.59000015,159.9499969
+Electronics,Eastern Europe,Kaluga,Standard Class,4,4,0,62.36000061,224.9499969
+Electronics,Western Europe,Herne,First Class,2,1,1,56.15000153,207.9600067
+Consumer Electronics,Western Europe,Langen,Same Day,1,0,1,59.83000183,252.8800049
+Computers,Northern Europe,Northampton,Second Class,6,2,4,393.1199951,1500.0
+Electronics,Southern Europe,Getafe,Standard Class,3,4,-1,44.79000092,159.9499969
+Electronics,Western Europe,Hamburgo,Standard Class,4,4,0,-31.23999977,95.97000122
+Electronics,Western Europe,Lille,Standard Class,3,4,-1,39.97000122,95.97000122
+Electronics,Western Europe,Amberes,Standard Class,3,4,-1,39.79999924,155.9700012
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,70.80999756,252.8800049
+Computers,Western Europe,Albi,First Class,2,1,1,114.8399963,1500.0
+Electronics,Eastern Europe,Balti,First Class,2,1,1,15.76000023,63.97999954
+Electronics,Northern Europe,Bradford,First Class,2,1,1,40.08000183,143.9700012
+Electronics,Western Europe,Aachen,First Class,2,1,1,25.34000015,95.97000122
+Electronics,Western Europe,Velbert,Standard Class,6,4,2,13.22999954,89.98000336
+Electronics,Northern Europe,Wallasey,Standard Class,3,4,-1,-115.7600021,89.98000336
+Electronics,Western Europe,Charleroi,Standard Class,3,4,-1,-364.9700012,155.9700012
+Electronics,Eastern Europe,Gdansk,Standard Class,2,4,-2,-9.760000229,127.9599991
+Electronics,Eastern Europe,Mykolayiv,Standard Class,2,4,-2,76.01999664,179.9600067
+Electronics,Eastern Europe,Ivanovo,Standard Class,6,4,2,38.54999924,127.9599991
+Electronics,Northern Europe,Oslo,Second Class,5,2,3,28.45000076,103.9800034
+Electronics,Northern Europe,Basingstoke,Second Class,4,2,2,6.860000134,103.9800034
+Electronics,Southern Europe,Torre del Greco,Second Class,4,2,2,4.800000191,95.97000122
+Electronics,Western Europe,Ingolstadt,Second Class,6,2,4,-28.10000038,143.9700012
+Electronics,Southern Europe,Torre del Greco,Second Class,4,2,2,37.61999893,127.9599991
+Electronics,Western Europe,Colmar,Second Class,4,2,2,2.269999981,207.9600067
+Computers,Western Europe,Bayreuth,Standard Class,3,4,-1,529.2000122,1500.0
+Consumer Electronics,Southern Europe,Ponferrada,Standard Class,2,4,-2,76.04000092,252.8800049
+Consumer Electronics,Northern Europe,Preston,Standard Class,3,4,-1,50.90000153,252.8800049
+Consumer Electronics,Southern Europe,Seville,Standard Class,2,4,-2,71.33999634,252.8800049
+Consumer Electronics,Northern Europe,Cork,Standard Class,3,4,-1,76.47000122,252.8800049
+Consumer Electronics,Western Europe,Halle,Standard Class,6,4,2,69.04000092,252.8800049
+Computers,Southern Europe,Madrid,Standard Class,4,4,0,435.6000061,1500.0
+Computers,Western Europe,Bremen,Standard Class,6,4,2,150.0,1500.0
+Electronics,Northern Europe,Mansfield,Standard Class,4,4,0,11.97000027,31.98999977
+Electronics,Eastern Europe,Poznan,Standard Class,3,4,-1,16.29999924,63.97999954
+Electronics,Western Europe,Frontignan,Standard Class,3,4,-1,16.57999992,63.97999954
+Electronics,Western Europe,Hamburgo,Standard Class,5,4,1,-5.800000191,103.9800034
+Electronics,Northern Europe,Helsinki,Standard Class,6,4,2,21.12999916,63.97999954
+Electronics,Western Europe,Pertuis,Standard Class,2,4,-2,13.64000034,63.97999954
+Electronics,Northern Europe,Estocolmo,Standard Class,2,4,-2,-6.300000191,95.98000336
+Consumer Electronics,Western Europe,Amberes,First Class,2,1,1,18.78000069,252.8800049
+Computers,Northern Europe,Gateshead,First Class,2,1,1,614.25,1500.0
+Computers,Western Europe,Charleroi,First Class,2,1,1,154.25,1500.0
+Computers,Western Europe,Schiffweiler,First Class,2,1,1,572.7000122,1500.0
+Electronics,Western Europe,Magdeburg,First Class,2,1,1,2.160000086,31.98999977
+Electronics,Southern Europe,Brindisi,Standard Class,5,4,1,54.15000153,207.9600067
+Electronics,Eastern Europe,Cheli�binsk,Standard Class,2,4,-2,-27.20999908,127.9599991
+Electronics,Western Europe,Bochum,Standard Class,5,4,1,67.19000244,191.9600067
+Electronics,Western Europe,Courbevoie,Standard Class,6,4,2,103.1800003,239.9499969
+Electronics,Southern Europe,Tarragona,Standard Class,4,4,0,29.3199997,159.9499969
+Electronics,Western Europe,Carcassonne,Standard Class,4,4,0,69.87000275,159.9499969
+Electronics,Western Europe,Carcassonne,Standard Class,4,4,0,66.94000244,159.9499969
+Electronics,Western Europe,Nice,Standard Class,2,4,-2,26.59000015,139.9499969
+Electronics,Western Europe,Annemasse,Standard Class,4,4,0,15.18000031,159.9499969
+Consumer Electronics,Western Europe,Fontenay-le-Comte,First Class,2,1,1,83.63999939,252.8800049
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,27.8199997,252.8800049
+Electronics,Western Europe,Salzburgo,First Class,2,1,1,27.43000031,83.97000122
+Electronics,Southern Europe,Barcelona,First Class,2,1,1,48.20000076,191.9600067
+Computers,Western Europe,Nantes,Second Class,2,2,0,504.0,1500.0
+Electronics,Western Europe,Aschaffenburg,Second Class,6,2,4,11.94999981,31.98999977
+Electronics,Western Europe,Hamburgo,Second Class,5,2,3,17.53000069,63.97999954
+Electronics,Northern Europe,Dubl�n,Second Class,4,2,2,35.0699997,83.97000122
+Electronics,Western Europe,Viena,Second Class,6,2,4,-58.88999939,95.97000122
+Electronics,Western Europe,Marseille,Second Class,5,2,3,9.010000229,127.9599991
+Computers,Southern Europe,Arezzo,Standard Class,5,4,1,-990.5,1500.0
+Computers,Western Europe,Arras,Standard Class,3,4,-1,531.5599976,1500.0
+Computers,Northern Europe,Kettering,Standard Class,3,4,-1,-2152.5,1500.0
+Computers,Western Europe,Argenteuil,Standard Class,2,4,-2,579.1500244,1500.0
+Computers,Western Europe,Emden,Standard Class,4,4,0,267.2999878,1500.0
+Computers,Western Europe,Marseille,Standard Class,6,4,2,-2328.0,1500.0
+Computers,Northern Europe,Helsinki,Standard Class,3,4,-1,548.25,1500.0
+Electronics,Southern Europe,Bari,Standard Class,5,4,1,14.26000023,31.98999977
+Electronics,Northern Europe,London,Standard Class,2,4,-2,6.900000095,31.98999977
+Electronics,Western Europe,Lohne,Second Class,2,2,0,15.19999981,159.9499969
+Electronics,Southern Europe,Brescia,Second Class,2,2,0,58.79000092,239.9499969
+Electronics,Southern Europe,Lisbon,Second Class,4,2,2,39.91999817,159.9499969
+Computers,Western Europe,La Rochelle,Standard Class,6,4,2,-2550.0,1500.0
+Computers,Western Europe,Augsburg,Standard Class,2,4,-2,519.75,1500.0
+Computers,Northern Europe,Derby,Standard Class,2,4,-2,543.9000244,1500.0
+Consumer Electronics,Southern Europe,Castelldefels,Standard Class,6,4,2,114.0,252.8800049
+Consumer Electronics,Western Europe,Amberes,Standard Class,4,4,0,18.59000015,252.8800049
+Consumer Electronics,Western Europe,Reims,Standard Class,6,4,2,66.23000336,252.8800049
+Computers,Northern Europe,Blackpool,Standard Class,2,4,-2,72.0,1500.0
+Computers,Western Europe,Bonn,Standard Class,2,4,-2,242.25,1500.0
+Computers,Western Europe,Paris,Standard Class,5,4,1,684.0,1500.0
+Consumer Electronics,Southern Europe,Florence,Standard Class,4,4,0,26.29000092,252.8800049
+Computers,Western Europe,Torcy,Standard Class,5,4,1,124.7399979,1500.0
+Consumer Electronics,Western Europe,Saint-Michel-sur-Orge,Standard Class,6,4,2,86.75,252.8800049
+Computers,Northern Europe,London,Standard Class,3,4,-1,456.2999878,1500.0
+Consumer Electronics,Northern Europe,Chester,Standard Class,2,4,-2,22.25,252.8800049
+Computers,Western Europe,Dreux,Standard Class,2,4,-2,501.6000061,1500.0
+Computers,Western Europe,Hamm,Standard Class,3,4,-1,-1000.940002,1500.0
+Computers,Western Europe,Berl�n,Standard Class,3,4,-1,592.2000122,1500.0
+Computers,Western Europe,Hamm,Standard Class,6,4,2,409.5,1500.0
+Computers,Western Europe,Albi,Standard Class,3,4,-1,491.3999939,1500.0
+Computers,Southern Europe,Madrid,Standard Class,6,4,2,249.0,1500.0
+Computers,Southern Europe,Venice,Standard Class,6,4,2,560.25,1500.0
+Computers,Western Europe,Creil,Standard Class,5,4,1,58.52000046,1500.0
+Computers,Western Europe,Dreux,Standard Class,3,4,-1,202.9400024,1500.0
+Computers,Western Europe,Noisy-le-Sec,Standard Class,5,4,1,-202.9400024,1500.0
+Computers,Western Europe,Duisburg,Standard Class,6,4,2,390.0,1500.0
+Computers,Southern Europe,Madrid,Standard Class,2,4,-2,326.25,1500.0
+Computers,Western Europe,Roermond,Standard Class,6,4,2,-99.0,1500.0
+Electronics,Northern Europe,Odense,Standard Class,6,4,2,5.889999866,31.98999977
+Electronics,Northern Europe,Bristol,Standard Class,2,4,-2,22.11000061,47.99000168
+Electronics,Southern Europe,Trento,Standard Class,5,4,1,14.8199997,47.99000168
+Computers,Southern Europe,Madrid,Standard Class,6,4,2,669.2999878,1500.0
+Electronics,Southern Europe,Granada,Standard Class,6,4,2,12.63000011,31.98999977
+Electronics,Western Europe,Norderstedt,Standard Class,2,4,-2,41.02999878,95.97000122
+Electronics,Western Europe,Vitry-sur-Seine,Standard Class,6,4,2,8.449999809,95.97000122
+Electronics,Northern Europe,Leicester,Standard Class,3,4,-1,36.0,127.9599991
+Electronics,Eastern Europe,Tarnow,Standard Class,4,4,0,2.119999886,111.9599991
+Electronics,Northern Europe,Sunderland,Standard Class,6,4,2,4.179999828,191.9600067
+Electronics,Eastern Europe,Praga,Standard Class,3,4,-1,-136.4199982,207.9600067
+Electronics,Southern Europe,Arezzo,Standard Class,5,4,1,-15.60000038,207.9600067
+Electronics,Western Europe,Schiltigheim,Standard Class,6,4,2,42.11000061,207.9600067
+Electronics,Eastern Europe,Sofia,Standard Class,5,4,1,55.27999878,127.9599991
+Electronics,Western Europe,Auxerre,Standard Class,2,4,-2,66.37999725,159.9499969
+Electronics,Western Europe,Dijon,Standard Class,3,4,-1,51.45999908,159.9499969
+Electronics,Western Europe,Emden,Standard Class,3,4,-1,76.80999756,159.9499969
+Electronics,Northern Europe,Leeds,Standard Class,3,4,-1,111.6999969,239.9499969
+Electronics,Western Europe,Innsbruck,Standard Class,2,4,-2,45.90999985,159.9499969
+Electronics,Southern Europe,Pisa,First Class,2,1,1,31.79999924,127.9599991
+Electronics,Western Europe,Moers,First Class,2,1,1,-16.27000046,159.9499969
+Computers,Northern Europe,Dubl�n,Same Day,0,0,0,477.75,1500.0
+Consumer Electronics,Northern Europe,London,Same Day,0,0,0,101.1999969,252.8800049
+Electronics,Eastern Europe,Ivano-Frankivs'k,Same Day,0,0,0,12.77999973,31.98999977
+Consumer Electronics,Western Europe,Lyon,Second Class,6,2,4,64.43000031,252.8800049
+Computers,Northern Europe,London,Second Class,4,2,2,530.0999756,1500.0
+Consumer Electronics,Northern Europe,Waterlooville,Second Class,5,2,3,70.55000305,252.8800049
+Computers,Northern Europe,London,Second Class,3,2,1,409.5,1500.0
+Consumer Electronics,Southern Europe,Barcelona,Second Class,5,2,3,113.8000031,252.8800049
+Consumer Electronics,Southern Europe,Acerra,Second Class,6,2,4,26.54999924,252.8800049
+Consumer Electronics,Western Europe,Wilhelmshaven,Second Class,5,2,3,22.86000061,252.8800049
+Electronics,Western Europe,Dordrecht,Second Class,3,2,1,43.75999832,95.98000336
+Electronics,Western Europe,Tarbes,Second Class,5,2,3,31.61000061,127.9599991
+Electronics,Western Europe,Nuremberg,Second Class,3,2,1,42.99000168,159.9499969
+Consumer Electronics,Northern Europe,Norwich,Standard Class,2,4,-2,118.8499985,252.8800049
+Computers,Southern Europe,Lucca,Standard Class,4,4,0,150.0,1500.0
+Computers,Western Europe,Viena,Standard Class,6,4,2,388.7999878,1500.0
+Computers,Southern Europe,Rome,Standard Class,4,4,0,384.75,1500.0
+Consumer Electronics,Western Europe,Saint-Michel-sur-Orge,Standard Class,2,4,-2,18.02000046,252.8800049
+Computers,Northern Europe,Gateshead,Standard Class,4,4,0,479.1199951,1500.0
+Computers,Western Europe,Aulnay-sous-Bois,Standard Class,5,4,1,-67.5,1500.0
+Computers,Western Europe,Aulnay-sous-Bois,Standard Class,4,4,0,462.0,1500.0
+Computers,Western Europe,Nogent-sur-Oise,Standard Class,5,4,1,561.1500244,1500.0
+Computers,Southern Europe,Barcelona,Standard Class,4,4,0,90.0,1500.0
+Electronics,Eastern Europe,Craiova,Standard Class,2,4,-2,9.819999695,31.98999977
+Consumer Electronics,Western Europe,Paris,First Class,2,1,1,42.56000137,252.8800049
+Computers,Northern Europe,Sheffield,First Class,2,1,1,161.5099945,1500.0
+Consumer Electronics,Southern Europe,Naples,First Class,2,1,1,15.73999977,252.8800049
+Electronics,Western Europe,Viena,First Class,2,1,1,39.36000061,127.9599991
+Consumer Electronics,Southern Europe,Florence,Same Day,1,0,1,17.79999924,252.8800049
+Electronics,Eastern Europe,Rivne,Same Day,0,0,0,-26.44000053,127.9599991
+Electronics,Eastern Europe,Rivne,Same Day,0,0,0,70.19000244,259.9500122
+Electronics,Northern Europe,Gravesend,Same Day,1,0,1,-418.9100037,159.9499969
+Consumer Electronics,Western Europe,Doetinchem,Second Class,3,2,1,64.43000031,252.8800049
+Computers,Western Europe,Hayange,Second Class,5,2,3,407.3999939,1500.0
+Computers,Western Europe,Bonn,Second Class,6,2,4,446.4899902,1500.0
+Consumer Electronics,Western Europe,Hamm,Second Class,4,2,2,97.45999908,252.8800049
+Consumer Electronics,Western Europe,Viena,Second Class,4,2,2,23.43000031,252.8800049
+Computers,Western Europe,Bergheim,Second Class,4,2,2,360.0,1500.0
+Electronics,Northern Europe,Colchester,Second Class,5,2,3,-8.06000042,31.98999977
+Electronics,Western Europe,Essen,Second Class,6,2,4,-44.79000092,63.97999954
+Computers,Western Europe,Bremen,Standard Class,4,4,0,244.5,1500.0
+Computers,Western Europe,Chelles,Standard Class,3,4,-1,525.0,1500.0
+Computers,Western Europe,Chelles,Standard Class,2,4,-2,167.8099976,1500.0
+Computers,Southern Europe,Palermo,Standard Class,6,4,2,291.0,1500.0
+Computers,Northern Europe,Birmingham,Standard Class,3,4,-1,417.6000061,1500.0
+Computers,Northern Europe,Manchester,Standard Class,6,4,2,-2184.0,1500.0
+Computers,Northern Europe,Blackpool,Standard Class,4,4,0,-87.44000244,1500.0
+Consumer Electronics,Western Europe,Dordrecht,Standard Class,4,4,0,61.18000031,252.8800049
+Computers,Northern Europe,East Kilbride,Standard Class,2,4,-2,323.7000122,1500.0
+Computers,Western Europe,Berl�n,Standard Class,2,4,-2,179.2799988,1500.0
+Electronics,Northern Europe,York,First Class,2,1,1,25.90999985,95.97000122
+Electronics,Western Europe,Herne,First Class,2,1,1,68.69999695,207.9600067
+Electronics,Southern Europe,Busto Arsizio,First Class,2,1,1,51.40999985,127.9599991
+Electronics,Southern Europe,Milan,First Class,2,1,1,48.86000061,127.9599991
+Electronics,Western Europe,Villach,First Class,2,1,1,88.54000092,224.9499969
+Electronics,Western Europe,Lisieux,First Class,2,1,1,40.65999985,159.9499969
+Electronics,Western Europe,Leipzig,First Class,2,1,1,35.83000183,159.9499969
+Consumer Electronics,Western Europe,Duisburg,Same Day,0,0,0,31.55999947,252.8800049
+Consumer Electronics,Western Europe,Amberes,Same Day,0,0,0,101.1999969,252.8800049
+Electronics,Northern Europe,Colchester,Same Day,1,0,1,9.180000305,31.98999977
+Electronics,Eastern Europe,Pitesti,Standard Class,3,4,-1,5.599999905,55.97999954
+Electronics,Southern Europe,Zagreb,Standard Class,5,4,1,25.51000023,89.98000336
+Electronics,Northern Europe,London,Standard Class,2,4,-2,24.35000038,89.98000336
+Electronics,Western Europe,Beauvais,Standard Class,5,4,1,6.400000095,63.97999954
+Electronics,Eastern Europe,Lublin,Standard Class,2,4,-2,0.949999988,95.98000336
+Electronics,Northern Europe,Garforth,Standard Class,3,4,-1,-27.63999939,95.98000336
+Electronics,Southern Europe,Ercolano,Standard Class,2,4,-2,1.690000057,95.98000336
+Electronics,Eastern Europe,Lviv,Standard Class,4,4,0,1.070000052,63.97999954
+Electronics,Northern Europe,Sheffield,Standard Class,3,4,-1,6.820000172,63.97999954
+Electronics,Southern Europe,Bilbao,Standard Class,4,4,0,18.8199997,83.97000122
+Consumer Electronics,Western Europe,Montpellier,Standard Class,3,4,-1,67.38999939,252.8800049
+Electronics,Western Europe,Frankfurt,Standard Class,2,4,-2,-11.72999954,89.98000336
+Electronics,Northern Europe,Dronfield,Standard Class,2,4,-2,6.909999847,95.97000122
+Electronics,Western Europe,Munster,Standard Class,2,4,-2,48.95000076,143.9700012
+Electronics,Northern Europe,London,Standard Class,3,4,-1,37.49000168,143.9700012
+Electronics,Southern Europe,Granollers,Standard Class,2,4,-2,-68.45999908,95.97000122
+Electronics,Southern Europe,Pesaro,Standard Class,2,4,-2,49.68000031,155.9700012
+Electronics,Western Europe,Soissons,Standard Class,2,4,-2,72.05999756,207.9600067
+Electronics,Western Europe,Utrecht,Standard Class,5,4,1,31.8199997,207.9600067
+Electronics,Southern Europe,Rome,Standard Class,4,4,0,18.0,191.9600067
+Consumer Electronics,Western Europe,Herford,First Class,2,1,1,69.38999939,252.8800049
+Computers,Northern Europe,Manchester,First Class,2,1,1,354.3800049,1500.0
+Computers,Western Europe,Le Blanc-Mesnil,First Class,2,1,1,477.75,1500.0
+Computers,Western Europe,Montmorency,First Class,2,1,1,136.5,1500.0
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,63.79999924,252.8800049
+Electronics,Western Europe,Essen,First Class,2,1,1,22.32999992,47.99000168
+Electronics,Northern Europe,Tallinn,First Class,2,1,1,22.11000061,47.99000168
+Electronics,Western Europe,Bonn,First Class,2,1,1,6.480000019,31.98999977
+Computers,Southern Europe,Cagliari,First Class,2,1,1,525.0,1500.0
+Electronics,Northern Europe,Cardiff,First Class,2,1,1,26.60000038,63.97999954
+Electronics,Eastern Europe,Ivanovo,First Class,2,1,1,29.22999954,95.98000336
+Electronics,Western Europe,Versailles,First Class,2,1,1,9.210000038,95.97000122
+Electronics,Western Europe,Drancy,First Class,2,1,1,49.25999832,155.9700012
+Electronics,Southern Europe,Girona,First Class,2,1,1,43.75,155.9700012
+Electronics,Southern Europe,Madrid,First Class,2,1,1,58.04000092,179.9600067
+Electronics,Western Europe,Calais,First Class,2,1,1,-31.67000008,159.9499969
+Electronics,Western Europe,Augsburg,Standard Class,4,4,0,-60.36999893,95.98000336
+Electronics,Western Europe,Potsdam,Standard Class,3,4,-1,2.890000105,159.9499969
+Electronics,Western Europe,Leuven,Standard Class,3,4,-1,30.95999908,239.9499969
+Computers,Southern Europe,Arezzo,First Class,2,1,1,112.5,1500.0
+Computers,Southern Europe,Turin,First Class,2,1,1,362.7000122,1500.0
+Computers,Western Europe,Hamburgo,First Class,2,1,1,94.5,1500.0
+Computers,Western Europe,Palaiseau,First Class,2,1,1,576.0,1500.0
+Electronics,Western Europe,Magdeburg,First Class,2,1,1,4.269999981,44.99000168
+Electronics,Western Europe,Calais,First Class,2,1,1,23.47999954,89.98000336
+Electronics,Western Europe,Paris,First Class,2,1,1,26.15999985,63.97999954
+Electronics,Northern Europe,Northwich,First Class,2,1,1,50.79000092,127.9599991
+Electronics,Western Europe,Amsterdam,First Class,2,1,1,58.43999863,224.9499969
+Electronics,Northern Europe,Brighton,First Class,2,1,1,37.11000061,159.9499969
+Electronics,Southern Europe,Barcelona,Same Day,1,0,1,15.43000031,44.99000168
+Electronics,Southern Europe,Coslada,Standard Class,5,4,1,-23.22999954,139.9499969
+Electronics,Western Europe,Montauban,Standard Class,5,4,1,23.76000023,239.9499969
+Electronics,Western Europe,Saint-Avold,Standard Class,4,4,0,10.09000015,259.9500122
+Electronics,Eastern Europe,Arkhangelsk,Standard Class,3,4,-1,-424.2399902,259.9500122
+Electronics,Eastern Europe,Poznan,Standard Class,3,4,-1,114.3799973,259.9500122
+Electronics,Western Europe,Hasselt,Standard Class,3,4,-1,-92.01000214,159.9499969
+Computers,Western Europe,Bremen,First Class,2,1,1,590.4000244,1500.0
+Electronics,Western Europe,Talence,First Class,2,1,1,59.61000061,179.9600067
+Consumer Electronics,Western Europe,Montpellier,Second Class,5,2,3,121.3799973,252.8800049
+Computers,Western Europe,Stuttgart,Second Class,5,2,3,378.0,1500.0
+Computers,Western Europe,Lomme,Second Class,2,2,0,-861.2999878,1500.0
+Consumer Electronics,Western Europe,Reims,Second Class,4,2,2,77.0,252.8800049
+Electronics,Northern Europe,Estocolmo,Second Class,3,2,1,2.880000114,55.97999954
+Electronics,Western Europe,Munich,Second Class,2,2,0,-50.47999954,134.9700012
+Electronics,Northern Europe,Birmingham,Second Class,6,2,4,36.27999878,143.9700012
+Computers,Southern Europe,Valladolid,Standard Class,5,4,1,509.25,1500.0
+Electronics,Southern Europe,Granada,Standard Class,5,4,1,15.05000019,63.97999954
+Electronics,Western Europe,Metz,Standard Class,4,4,0,15.14999962,55.97999954
+Electronics,Western Europe,Cologne,Standard Class,4,4,0,28.95000076,103.9800034
+Electronics,Eastern Europe,Sofia,Standard Class,4,4,0,42.84999847,95.97000122
+Electronics,Western Europe,Hamm,Standard Class,2,4,-2,60.38999939,155.9700012
+Electronics,Eastern Europe,Yaroslavl,Standard Class,4,4,0,25.73999977,207.9600067
+Electronics,Western Europe,Villeparisis,Standard Class,4,4,0,76.01000214,159.9499969
+Electronics,Eastern Europe,Timisoara,Standard Class,6,4,2,0.0,63.97999954
+Electronics,Western Europe,Amsterdam,Standard Class,3,4,-1,43.75999832,95.97000122
+Electronics,Western Europe,Stuttgart,Standard Class,2,4,-2,48.27000046,127.9599991
+Electronics,Western Europe,Muret,Standard Class,5,4,1,46.86999893,127.9599991
+Electronics,Western Europe,Leipzig,Standard Class,3,4,-1,69.15000153,207.9600067
+Electronics,Western Europe,Tilburg,Standard Class,2,4,-2,-192.1300049,127.9599991
+Electronics,Eastern Europe,Irkutsk,Standard Class,3,4,-1,77.40000153,191.9600067
+Electronics,Southern Europe,Rimini,Standard Class,5,4,1,75.18000031,159.9499969
+Electronics,Northern Europe,London,Standard Class,2,4,-2,38.68000031,159.9499969
+Electronics,Western Europe,Genk,Standard Class,6,4,2,126.0999985,259.9500122
+Electronics,Western Europe,Hamburgo,Standard Class,3,4,-1,47.50999832,159.9499969
+Electronics,Western Europe,Dordrecht,Standard Class,4,4,0,9.600000381,239.9499969
+Consumer Electronics,Southern Europe,Taranto,First Class,2,1,1,-46.11999893,252.8800049
+Computers,Southern Europe,Alcobendas,First Class,2,1,1,-2232.0,1500.0
+Consumer Electronics,Western Europe,Paris,First Class,2,1,1,118.9499969,252.8800049
+Computers,Southern Europe,Alcobendas,First Class,2,1,1,240.9799957,1500.0
+Computers,Western Europe,Berl�n,First Class,2,1,1,299.0899963,1500.0
+Computers,Western Europe,Laval,First Class,2,1,1,655.2000122,1500.0
+Computers,Southern Europe,Ravenna,First Class,2,1,1,0.0,1500.0
+Computers,Western Europe,Montmorency,First Class,2,1,1,391.5,1500.0
+Computers,Western Europe,Hamm,First Class,2,1,1,-1020.0,1500.0
+Consumer Electronics,Western Europe,Valence,First Class,2,1,1,66.37999725,252.8800049
+Consumer Electronics,Western Europe,Hamm,First Class,2,1,1,61.63999939,252.8800049
+Electronics,Eastern Europe,Varna,First Class,2,1,1,3.779999971,31.98999977
+Electronics,Northern Europe,Estocolmo,First Class,2,1,1,20.28000069,51.99000168
+Electronics,Western Europe,Haguenau,First Class,2,1,1,4.849999905,31.98999977
+Electronics,Northern Europe,Drammen,First Class,2,1,1,18.71999931,51.99000168
+Consumer Electronics,Western Europe,Paris,First Class,2,1,1,74.34999847,252.8800049
+Computers,Northern Europe,Gateshead,First Class,2,1,1,592.2000122,1500.0
+Electronics,Northern Europe,Estocolmo,First Class,2,1,1,14.89000034,31.98999977
+Computers,Western Europe,Pontault-Combault,Second Class,4,2,2,614.25,1500.0
+Computers,Northern Europe,Newcastle upon Tyne,Second Class,5,2,3,469.5,1500.0
+Consumer Electronics,Western Europe,Bressuire,Second Class,6,2,4,115.1600037,252.8800049
+Consumer Electronics,Northern Europe,Northwich,Second Class,4,2,2,52.04000092,252.8800049
+Consumer Electronics,Southern Europe,Acireale,Second Class,4,2,2,55.75999832,252.8800049
+Consumer Electronics,Western Europe,Reims,Second Class,2,2,0,77.5699997,252.8800049
+Consumer Electronics,Western Europe,Forbach,Second Class,6,2,4,3.190000057,252.8800049
+Computers,Northern Europe,Copenhagen,Second Class,6,2,4,662.4000244,1500.0
+Computers,Western Europe,Nantes,Second Class,6,2,4,242.25,1500.0
+Computers,Western Europe,Perpignan,Second Class,6,2,4,396.8999939,1500.0
+Consumer Electronics,Western Europe,Halle,Second Class,5,2,3,89.61000061,252.8800049
+Consumer Electronics,Western Europe,Reims,Second Class,5,2,3,106.8199997,252.8800049
+Consumer Electronics,Northern Europe,Edinburgh,Second Class,5,2,3,49.77000046,252.8800049
+Computers,Southern Europe,Latina,Second Class,3,2,1,123.0,1500.0
+Computers,Southern Europe,Latina,Second Class,2,2,0,588.0,1500.0
+Consumer Electronics,Western Europe,Hamm,Second Class,3,2,1,95.08000183,252.8800049
+Electronics,Southern Europe,Turin,Second Class,4,2,2,16.57999992,44.99000168
+Electronics,Northern Europe,Kingswood,Second Class,4,2,2,12.22999954,31.98999977
+Electronics,Southern Europe,Pescara,Second Class,3,2,1,35.41999817,89.98000336
+Electronics,Western Europe,Quimper,Second Class,4,2,2,-71.3199997,63.97999954
+Electronics,Southern Europe,Rome,Second Class,2,2,0,-47.02999878,63.97999954
+Electronics,Western Europe,Viena,Second Class,5,2,3,43.22999954,143.9700012
+Electronics,Western Europe,Viena,Second Class,5,2,3,43.43999863,127.9599991
+Electronics,Western Europe,Le Havre,Second Class,2,2,0,33.99000168,159.9499969
+Electronics,Western Europe,Namur,Second Class,5,2,3,39.29999924,159.9499969
+Electronics,Western Europe,Courbevoie,Second Class,6,2,4,70.97000122,259.9500122
+Computers,Western Europe,Frankfurt,Standard Class,2,4,-2,270.0,1500.0
+Computers,Northern Europe,Bolton,Standard Class,2,4,-2,70.5,1500.0
+Computers,Northern Europe,Woking,Standard Class,5,4,1,-337.5,1500.0
+Consumer Electronics,Northern Europe,Birmingham,Standard Class,2,4,-2,63.22000122,252.8800049
+Consumer Electronics,Western Europe,Augsburg,Standard Class,3,4,-1,6.130000114,252.8800049
+Consumer Electronics,Western Europe,Viena,Standard Class,4,4,0,36.79000092,252.8800049
+Consumer Electronics,Western Europe,Herford,Standard Class,4,4,0,0.0,252.8800049
+Computers,Northern Europe,Swindon,Standard Class,4,4,0,417.6000061,1500.0
+Consumer Electronics,Southern Europe,Lorca,Standard Class,5,4,1,120.1200027,252.8800049
+Computers,Northern Europe,Oxford,Standard Class,4,4,0,-510.2999878,1500.0
+Computers,Western Europe,Lormont,Standard Class,3,4,-1,368.5499878,1500.0
+Computers,Western Europe,Bonn,Standard Class,6,4,2,89.30000305,1500.0
+Consumer Electronics,Western Europe,Versailles,Standard Class,5,4,1,83.63999939,252.8800049
+Consumer Electronics,Western Europe,Saint-Michel-sur-Orge,Standard Class,5,4,1,-399.7999878,252.8800049
+Consumer Electronics,Southern Europe,Madrid,Standard Class,3,4,-1,109.2399979,252.8800049
+Computers,Western Europe,Amsterdam,Standard Class,3,4,-1,456.2999878,1500.0
+Computers,Northern Europe,Gateshead,Standard Class,5,4,1,149.1600037,1500.0
+Consumer Electronics,Southern Europe,Valladolid,Standard Class,3,4,-1,58.52999878,252.8800049
+Computers,Western Europe,Schwerin,Standard Class,2,4,-2,-2178.0,1500.0
+Computers,Western Europe,Fresnes,Standard Class,6,4,2,287.1000061,1500.0
+Computers,Southern Europe,Afragola,Standard Class,4,4,0,599.25,1500.0
+Computers,Southern Europe,Madrid,Standard Class,2,4,-2,25.20000076,1500.0
+Computers,Western Europe,Nice,Standard Class,6,4,2,-2205.0,1500.0
+Consumer Electronics,Western Europe,Montpellier,Standard Class,5,4,1,-39.93000031,252.8800049
+Consumer Electronics,Western Europe,Amberes,Standard Class,2,4,-2,71.80000305,252.8800049
+Consumer Electronics,Western Europe,Wattrelos,Standard Class,4,4,0,68.20999908,252.8800049
+Computers,Southern Europe,Barcelona,Standard Class,5,4,1,153.75,1500.0
+Consumer Electronics,Southern Europe,Capannori,Standard Class,6,4,2,70.08999634,252.8800049
+Electronics,Northern Europe,Copenhagen,Standard Class,4,4,0,11.57999992,44.99000168
+Electronics,Western Europe,Montauban,Standard Class,3,4,-1,17.54999924,44.99000168
+Electronics,Western Europe,Strasbourg,Same Day,0,0,0,20.37999916,63.97999954
+Electronics,Southern Europe,Barcelona,Same Day,1,0,1,41.8199997,134.9700012
+Electronics,Southern Europe,Lora del R�o,Same Day,1,0,1,79.18000031,159.9499969
+Consumer Electronics,Western Europe,Utrecht,Second Class,3,2,1,28.29000092,252.8800049
+Computers,Western Europe,Berl�n,Second Class,3,2,1,399.0,1500.0
+Consumer Electronics,Western Europe,Wolfsburg,Second Class,6,2,4,23.01000023,252.8800049
+Consumer Electronics,Northern Europe,York,Second Class,3,2,1,42.27999878,252.8800049
+Computers,Western Europe,Berl�n,Second Class,6,2,4,138.9900055,1500.0
+Consumer Electronics,Western Europe,Reims,Second Class,3,2,1,69.86000061,252.8800049
+Electronics,Northern Europe,Stoke-on-Trent,Second Class,6,2,4,-18.11000061,89.98000336
+Electronics,Western Europe,Bezons,Second Class,3,2,1,25.90999985,95.98000336
+Electronics,Southern Europe,Bilbao,Second Class,6,2,4,38.0,95.97000122
+Electronics,Western Europe,The Hague,Second Class,3,2,1,39.34999847,95.97000122
+Electronics,Northern Europe,Bebington,Second Class,4,2,2,0.0,127.9599991
+Electronics,Western Europe,Bezons,Second Class,3,2,1,38.5,159.9499969
+Computers,Western Europe,Hayange,Standard Class,4,4,0,662.4000244,1500.0
+Consumer Electronics,Western Europe,Herford,Standard Class,3,4,-1,84.97000122,252.8800049
+Consumer Electronics,Southern Europe,Ponferrada,Standard Class,5,4,1,-200.1199951,252.8800049
+Computers,Northern Europe,London,Standard Class,2,4,-2,708.75,1500.0
+Computers,Western Europe,Charleroi,Standard Class,4,4,0,301.9299927,1500.0
+Computers,Western Europe,Voiron,Standard Class,2,4,-2,-227.3899994,1500.0
+Consumer Electronics,Western Europe,Zwickau,Standard Class,4,4,0,-58.79000092,252.8800049
+Consumer Electronics,Northern Europe,Copenhagen,Standard Class,4,4,0,17.0699997,252.8800049
+Consumer Electronics,Southern Europe,Parma,Standard Class,2,4,-2,-28.45000076,252.8800049
+Computers,Western Europe,Le Blanc-Mesnil,Standard Class,5,4,1,456.2999878,1500.0
+Consumer Electronics,Western Europe,Heerlen,Standard Class,6,4,2,-133.5200043,252.8800049
+Consumer Electronics,Northern Europe,London,Standard Class,2,4,-2,22.0,252.8800049
+Computers,Western Europe,Den Helder,Standard Class,6,4,2,63.75,1500.0
+Computers,Western Europe,Schiltigheim,Standard Class,3,4,-1,357.0,1500.0
+Consumer Electronics,Western Europe,Montpellier,Standard Class,6,4,2,69.86000061,252.8800049
+Consumer Electronics,Western Europe,Wattrelos,Standard Class,5,4,1,74.34999847,252.8800049
+Computers,Northern Europe,Letchworth,Standard Class,2,4,-2,448.2000122,1500.0
+Computers,Southern Europe,Madrid,Standard Class,6,4,2,553.5,1500.0
+Consumer Electronics,Western Europe,Maisons-Alfort,Standard Class,5,4,1,89.16999817,252.8800049
+Consumer Electronics,Northern Europe,London,Standard Class,3,4,-1,68.37999725,252.8800049
+Consumer Electronics,Northern Europe,Birmingham,Standard Class,3,4,-1,14.22000027,252.8800049
+Computers,Western Europe,Chelles,Standard Class,4,4,0,168.75,1500.0
+Electronics,Eastern Europe,J�rkov,Standard Class,5,4,1,14.10999966,31.98999977
+Consumer Electronics,Western Europe,Doetinchem,Standard Class,5,4,1,-72.0699997,252.8800049
+Electronics,Western Europe,Toulon,Standard Class,4,4,0,0.600000024,31.98999977
+Electronics,Northern Europe,Liverpool,Standard Class,3,4,-1,16.46999931,51.99000168
+Electronics,Southern Europe,Lisbon,Standard Class,2,4,-2,0.800000012,31.98999977
+Electronics,Southern Europe,Valencia,First Class,2,1,1,5.570000172,63.97999954
+Electronics,Western Europe,Spijkenisse,First Class,2,1,1,26.0,103.9800034
+Electronics,Northern Europe,Tallaght,First Class,2,1,1,26.0699997,95.98000336
+Electronics,Western Europe,La Teste-de-Buch,First Class,2,1,1,15.22999954,63.97999954
+Electronics,Western Europe,Kiel,First Class,2,1,1,25.07999992,63.97999954
+Electronics,Western Europe,Heilbronn,First Class,2,1,1,24.20000076,95.97000122
+Electronics,Western Europe,Amiens,First Class,2,1,1,16.37999916,143.9700012
+Electronics,Western Europe,Amsterdam,First Class,2,1,1,58.22999954,207.9600067
+Electronics,Eastern Europe,G�mel,First Class,2,1,1,85.76999664,224.9499969
+Electronics,Eastern Europe,Kramators'k,First Class,2,1,1,67.55999756,159.9499969
+Electronics,Southern Europe,Capannori,First Class,2,1,1,-209.9299927,159.9499969
+Electronics,Southern Europe,Carpi,First Class,2,1,1,19.59000015,159.9499969
+Consumer Electronics,Southern Europe,Elx,Same Day,1,0,1,25.04000092,252.8800049
+Computers,Western Europe,La Rochelle,Same Day,1,0,1,720.2999878,1500.0
+Computers,Northern Europe,Dubl�n,Same Day,0,0,0,180.0,1500.0
+Consumer Electronics,Southern Europe,Torre del Greco,Same Day,0,0,0,30.79999924,252.8800049
+Consumer Electronics,Western Europe,Hanover,Same Day,1,0,1,65.84999847,252.8800049
+Consumer Electronics,Western Europe,Montpellier,Same Day,1,0,1,51.20999908,252.8800049
+Electronics,Western Europe,Arras,Same Day,0,0,0,11.0,31.98999977
+Consumer Electronics,Western Europe,Koblenz,Same Day,1,0,1,56.66999817,252.8800049
+Electronics,Southern Europe,Zagreb,Same Day,0,0,0,19.73999977,55.97999954
+Electronics,Northern Europe,Coventry,Same Day,1,0,1,6.869999886,63.97999954
+Electronics,Eastern Europe,Lodz,Same Day,0,0,0,47.02999878,143.9700012
+Electronics,Western Europe,Tourcoing,Same Day,1,0,1,46.40000153,155.9700012
+Electronics,Western Europe,Berl�n,Same Day,0,0,0,-282.1799927,191.9600067
+Electronics,Western Europe,Berl�n,Same Day,1,0,1,48.59000015,224.9499969
+Consumer Electronics,Northern Europe,Glasgow,Standard Class,4,4,0,52.59999847,252.8800049
+Consumer Electronics,Northern Europe,Birmingham,Standard Class,6,4,2,25.04000092,252.8800049
+Consumer Electronics,Northern Europe,Estocolmo,Standard Class,3,4,-1,39.65000153,252.8800049
+Computers,Southern Europe,Talavera de la Reina,Standard Class,4,4,0,-84.95999908,1500.0
+Consumer Electronics,Western Europe,Duisburg,Standard Class,2,4,-2,-382.3500061,252.8800049
+Consumer Electronics,Southern Europe,Barcelona,Standard Class,2,4,-2,85.37000275,252.8800049
+Computers,Western Europe,Velsen,Standard Class,4,4,0,506.3900146,1500.0
+Computers,Southern Europe,Cerignola,Standard Class,3,4,-1,646.7999878,1500.0
+Computers,Western Europe,Aix-en-Provence,Standard Class,5,4,1,369.6000061,1500.0
+Consumer Electronics,Southern Europe,Rome,Standard Class,5,4,1,-5.5,252.8800049
+Computers,Western Europe,Schiltigheim,Standard Class,2,4,-2,604.7999878,1500.0
+Computers,Southern Europe,Madrid,Standard Class,4,4,0,602.7000122,1500.0
+Computers,Western Europe,The Hague,Standard Class,4,4,0,415.7399902,1500.0
+Computers,Western Europe,Berl�n,Standard Class,4,4,0,87.75,1500.0
+Computers,Western Europe,Duisburg,Standard Class,2,4,-2,380.25,1500.0
+Consumer Electronics,Western Europe,Offenbach,Standard Class,3,4,-1,21.43000031,252.8800049
+Electronics,Western Europe,Fontaine,Standard Class,2,4,-2,13.78999996,31.98999977
+Electronics,Western Europe,La Baule-Escoublac,Standard Class,4,4,0,7.010000229,63.97999954
+Electronics,Western Europe,Argenteuil,Standard Class,6,4,2,-13.10999966,95.98000336
+Electronics,Northern Europe,Birmingham,Standard Class,2,4,-2,10.18999958,103.9800034
+Electronics,Western Europe,Marseille,Standard Class,6,4,2,18.18000031,63.97999954
+Electronics,Western Europe,Duisburg,Standard Class,3,4,-1,41.06000137,95.98000336
+Electronics,Western Europe,Hamburgo,Standard Class,6,4,2,23.20999908,63.97999954
+Electronics,Western Europe,Leoben,Standard Class,6,4,2,26.10000038,63.97999954
+Electronics,Eastern Europe,Budapest,Standard Class,5,4,1,16.62000084,63.97999954
+Electronics,Southern Europe,Milan,Standard Class,2,4,-2,31.95999908,95.97000122
+Electronics,Northern Europe,Southend-on-Sea,Standard Class,3,4,-1,29.87000084,95.97000122
+Electronics,Western Europe,Olivet,Standard Class,2,4,-2,-136.6499939,179.9600067
+Electronics,Eastern Europe,Khasavyurt,Standard Class,6,4,2,60.52000046,191.9600067
+Electronics,Western Europe,Hamburgo,Standard Class,6,4,2,82.34999847,207.9600067
+Consumer Electronics,Western Europe,Nice,Same Day,0,0,0,27.8199997,252.8800049
+Consumer Electronics,Northern Europe,London,Same Day,1,0,1,6.369999886,252.8800049
+Computers,Western Europe,Ghent,Same Day,0,0,0,491.3999939,1500.0
+Electronics,Northern Europe,London,Same Day,1,0,1,-12.09000015,63.97999954
+Electronics,Northern Europe,Stavanger,Same Day,0,0,0,62.61999893,159.9499969
+Consumer Electronics,Western Europe,Nice,Second Class,5,2,3,66.73999786,252.8800049
+Computers,Western Europe,Dresden,Second Class,3,2,1,462.0,1500.0
+Consumer Electronics,Southern Europe,Naples,Second Class,6,2,4,19.13999939,252.8800049
+Computers,Northern Europe,Letchworth,Second Class,6,2,4,467.3999939,1500.0
+Electronics,Western Europe,Dortmund,Second Class,3,2,1,6.820000172,31.98999977
+Computers,Northern Europe,Northampton,Second Class,2,2,0,-941.6300049,1500.0
+Electronics,Southern Europe,Venice,Second Class,3,2,1,21.20999908,95.98000336
+Electronics,Western Europe,Ghent,Second Class,4,2,2,20.30999947,143.9700012
+Electronics,Western Europe,Lyon,Second Class,2,2,0,36.27999878,95.97000122
+Electronics,Southern Europe,Lecce,Second Class,4,2,2,38.52000046,155.9700012
+Electronics,Western Europe,Paris,Second Class,4,2,2,2.819999933,127.9599991
+Electronics,Western Europe,Bordeaux,Second Class,3,2,1,31.47999954,127.9599991
+Electronics,Western Europe,Hamme,Second Class,6,2,4,31.04000092,111.9599991
+Electronics,Southern Europe,Carrara,Second Class,6,2,4,49.90000153,159.9499969
+Electronics,Southern Europe,Liubliana,Second Class,4,2,2,-38.99000168,259.9500122
+Consumer Electronics,Northern Europe,London,Standard Class,3,4,-1,94.83000183,252.8800049
+Consumer Electronics,Western Europe,Cologne,Standard Class,4,4,0,-185.3600006,252.8800049
+Computers,Northern Europe,Dubl�n,Standard Class,4,4,0,-1076.630005,1500.0
+Consumer Electronics,Southern Europe,Porto,Standard Class,4,4,0,70.09999847,252.8800049
+Consumer Electronics,Western Europe,Neunkirchen,Standard Class,4,4,0,122.6699982,252.8800049
+Consumer Electronics,Southern Europe,Ponferrada,Standard Class,3,4,-1,71.87000275,252.8800049
+Computers,Southern Europe,Palermo,Standard Class,5,4,1,504.0,1500.0
+Computers,Western Europe,Velsen,Standard Class,2,4,-2,14.39999962,1500.0
+Consumer Electronics,Western Europe,Longjumeau,Standard Class,3,4,-1,63.11999893,252.8800049
+Computers,Northern Europe,Sheffield,Standard Class,2,4,-2,339.1499939,1500.0
+Computers,Western Europe,Champigny-sur-Marne,Standard Class,2,4,-2,-997.5,1500.0
+Consumer Electronics,Southern Europe,Ponferrada,Standard Class,4,4,0,56.88000107,252.8800049
+Computers,Western Europe,Charleroi,Standard Class,3,4,-1,471.5100098,1500.0
+Computers,Western Europe,Nancy,Standard Class,6,4,2,174.3800049,1500.0
+Consumer Electronics,Western Europe,Wolfsburg,Standard Class,2,4,-2,38.33000183,252.8800049
+Consumer Electronics,Southern Europe,Milan,Standard Class,3,4,-1,-72.94999695,252.8800049
+Computers,Western Europe,Champigny-sur-Marne,Standard Class,5,4,1,668.8499756,1500.0
+Consumer Electronics,Western Europe,Breda,Standard Class,3,4,-1,46.02000046,252.8800049
+Computers,Western Europe,Hamm,Standard Class,5,4,1,303.75,1500.0
+Computers,Western Europe,Charleroi,Standard Class,6,4,2,-18.89999962,1500.0
+Consumer Electronics,Western Europe,Cournon-d'Auvergne,Standard Class,6,4,2,74.80000305,252.8800049
+Consumer Electronics,Northern Europe,London,Standard Class,6,4,2,24.29000092,252.8800049
+Computers,Northern Europe,Dubl�n,Standard Class,3,4,-1,-1890.0,1500.0
+Computers,Southern Europe,Amadora,Standard Class,6,4,2,630.0,1500.0
+Computers,Southern Europe,Madrid,Standard Class,2,4,-2,24.89999962,1500.0
+Consumer Electronics,Western Europe,Halle,Standard Class,5,4,1,18.46999931,252.8800049
+Computers,Western Europe,Palaiseau,Standard Class,2,4,-2,221.3999939,1500.0
+Consumer Electronics,Western Europe,Halle,Standard Class,4,4,0,78.80000305,252.8800049
+Computers,Northern Europe,Bolton,Standard Class,3,4,-1,70.87999725,1500.0
+Consumer Electronics,Southern Europe,Ceuta,Standard Class,6,4,2,-512.0800171,252.8800049
+Electronics,Western Europe,Bordeaux,Standard Class,2,4,-2,-0.389999986,31.98999977
+Electronics,Western Europe,Berl�n,Standard Class,6,4,2,8.449999809,31.98999977
+Electronics,Western Europe,Paris,Standard Class,4,4,0,36.27999878,95.97000122
+Electronics,Western Europe,Mougins,Standard Class,2,4,-2,1.309999943,155.9700012
+Electronics,Eastern Europe,Cluj-Napoca,Standard Class,5,4,1,35.84999847,143.9700012
+Electronics,Western Europe,Worms,Standard Class,2,4,-2,28.79000092,143.9700012
+Electronics,Western Europe,Langenfeld,Standard Class,6,4,2,30.70999908,127.9599991
+Electronics,Northern Europe,Sonderborg,Standard Class,4,4,0,-168.1100006,111.9599991
+Electronics,Southern Europe,Parla,Standard Class,5,4,1,38.95999908,127.9599991
+Electronics,Southern Europe,Brindisi,Standard Class,2,4,-2,66.41999817,207.9600067
+Electronics,Western Europe,Evry,Standard Class,3,4,-1,24.18000031,127.9599991
+Electronics,Northern Europe,London,Standard Class,5,4,1,29.69000053,127.9599991
+Electronics,Western Europe,Duisburg,Standard Class,5,4,1,67.66999817,191.9600067
+Electronics,Eastern Europe,Zaporiyia,Standard Class,3,4,-1,12.67000008,127.9599991
+Electronics,Northern Europe,Southend-on-Sea,Standard Class,6,4,2,16.55999947,111.9599991
+Electronics,Eastern Europe,Briansk,Standard Class,3,4,-1,35.18999863,127.9599991
+Electronics,Eastern Europe,Budapest,Standard Class,3,4,-1,64.11000061,224.9499969
+Electronics,Western Europe,Herne,Standard Class,5,4,1,38.0,159.9499969
+Electronics,Southern Europe,Valladolid,Standard Class,2,4,-2,31.73999977,139.9499969
+Electronics,Western Europe,Tilburg,Standard Class,4,4,0,-142.7599945,159.9499969
+Electronics,Eastern Europe,Zaporiyia,Standard Class,3,4,-1,-16.82999992,224.9499969
+Computers,Western Europe,Wetzlar,First Class,2,1,1,720.0,1500.0
+Consumer Electronics,Western Europe,Les Mureaux,First Class,2,1,1,85.47000122,252.8800049
+Consumer Electronics,Western Europe,Amberes,First Class,2,1,1,-2.779999971,252.8800049
+Consumer Electronics,Western Europe,Reims,First Class,2,1,1,82.62000275,252.8800049
+Computers,Western Europe,Chelles,First Class,2,1,1,-1077.51001,1500.0
+Consumer Electronics,Western Europe,Paris,First Class,2,1,1,115.2900009,252.8800049
+Computers,Western Europe,Trier,First Class,2,1,1,178.1300049,1500.0
+Computers,Western Europe,Montmorency,First Class,2,1,1,661.5,1500.0
+Electronics,Eastern Europe,Pila,First Class,2,1,1,10.57999992,31.98999977
+Electronics,Western Europe,Chemnitz,First Class,2,1,1,77.20999908,155.9700012
+Electronics,Western Europe,Toulon,First Class,2,1,1,52.40000153,179.9600067
+Electronics,Northern Europe,Cardiff,First Class,2,1,1,73.29000092,191.9600067
+Electronics,Northern Europe,Estocolmo,First Class,2,1,1,103.8499985,259.9500122
+Computers,Northern Europe,Dubl�n,Same Day,0,0,0,128.0399933,1500.0
+Computers,Western Europe,Berl�n,Same Day,1,0,1,153.4499969,1500.0
+Consumer Electronics,Western Europe,Amberes,Same Day,0,0,0,104.5899963,252.8800049
+Computers,Western Europe,Viena,Same Day,0,0,0,-293.5799866,1500.0
+Computers,Southern Europe,Vittoria,Same Day,0,0,0,-280.1300049,1500.0
+Electronics,Southern Europe,Palermo,Standard Class,2,4,-2,9.609999657,31.98999977
+Electronics,Western Europe,Rouen,Standard Class,5,4,1,12.97999954,51.99000168
+Electronics,Western Europe,Lens,Standard Class,6,4,2,0.0,31.98999977
+Electronics,Western Europe,Utrecht,Standard Class,3,4,-1,12.94999981,31.98999977
+Computers,Western Europe,Ghent,Standard Class,5,4,1,-203.7799988,1500.0
+Computers,Western Europe,Charleroi,Standard Class,2,4,-2,477.75,1500.0
+Consumer Electronics,Western Europe,Maisons-Alfort,Standard Class,6,4,2,10.48999977,252.8800049
+Computers,Western Europe,Gelsenkirchen,Standard Class,5,4,1,384.0,1500.0
+Electronics,Northern Europe,Oxford,Standard Class,4,4,0,6.329999924,31.98999977
+Consumer Electronics,Southern Europe,Brescia,First Class,2,1,1,84.08000183,252.8800049
+Computers,Western Europe,Charleroi,First Class,2,1,1,-837.0,1500.0
+Computers,Western Europe,Hamburgo,First Class,2,1,1,280.1300049,1500.0
+Electronics,Eastern Europe,Makhachkala,First Class,2,1,1,11.64000034,63.97999954
+Electronics,Southern Europe,Murcia,First Class,2,1,1,-13.46000004,95.98000336
+Electronics,Western Europe,Zwickau,First Class,2,1,1,17.01000023,143.9700012
+Electronics,Western Europe,Frankfurt,First Class,2,1,1,55.08000183,139.9499969
+Consumer Electronics,Northern Europe,Peterborough,Same Day,1,0,1,74.36000061,252.8800049
+Electronics,Western Europe,Utrecht,Second Class,6,2,4,4.869999886,27.98999977
+Electronics,Northern Europe,Exeter,Second Class,6,2,4,19.0,95.97000122
+Electronics,Southern Europe,Madrid,Second Class,6,2,4,72.62000275,155.9700012
+Computers,Western Europe,Nieuwegein,Standard Class,6,4,2,579.5999756,1500.0
+Computers,Western Europe,Nieuwegein,Standard Class,4,4,0,-286.5899963,1500.0
+Electronics,Southern Europe,Messina,Standard Class,6,4,2,14.81000042,51.99000168
+Consumer Electronics,Southern Europe,Milan,Second Class,4,2,2,68.27999878,252.8800049
+Consumer Electronics,Southern Europe,Cartagena,Second Class,5,2,3,-112.6600037,252.8800049
+Consumer Electronics,Western Europe,Roosendaal,Second Class,2,2,0,72.59999847,252.8800049
+Consumer Electronics,Southern Europe,Girona,Second Class,5,2,3,-171.7100067,252.8800049
+Computers,Western Europe,Munich,Second Class,2,2,0,436.5,1500.0
+Consumer Electronics,Southern Europe,Florence,Second Class,3,2,1,-38.11000061,252.8800049
+Consumer Electronics,Western Europe,Viena,Second Class,2,2,0,78.90000153,252.8800049
+Computers,Northern Europe,Cork,Second Class,6,2,4,161.0299988,1500.0
+Computers,Western Europe,Hazebrouck,Second Class,2,2,0,356.3999939,1500.0
+Consumer Electronics,Western Europe,Wuppertal,Second Class,6,2,4,106.8199997,252.8800049
+Computers,Western Europe,Marseille,Second Class,2,2,0,-255.0,1500.0
+Computers,Western Europe,Cognac,Second Class,2,2,0,50.40000153,1500.0
+Consumer Electronics,Northern Europe,Manchester,Second Class,3,2,1,-60.68999863,252.8800049
+Electronics,Western Europe,Bremen,Second Class,5,2,3,3.069999933,31.98999977
+Electronics,Western Europe,Strasbourg,Second Class,5,2,3,14.59000015,31.98999977
+Electronics,Western Europe,Pontoise,Second Class,5,2,3,8.81000042,31.98999977
+Electronics,Western Europe,Leipzig,Second Class,6,2,4,-24.45000076,31.98999977
+Electronics,Eastern Europe,Katowice,Second Class,6,2,4,13.46000004,47.99000168
+Electronics,Eastern Europe,Galati,Second Class,5,2,3,-0.330000013,31.98999977
+Consumer Electronics,Southern Europe,Girona,Second Class,6,2,4,89.95999908,252.8800049
+Consumer Electronics,Western Europe,Pontault-Combault,Second Class,4,2,2,105.5999985,252.8800049
+Electronics,Western Europe,Aschaffenburg,Second Class,3,2,1,6.269999981,27.98999977
+Electronics,Western Europe,Gien,Second Class,4,2,2,11.48999977,63.97999954
+Electronics,Western Europe,Grasse,Second Class,6,2,4,8.020000458,95.98000336
+Electronics,Western Europe,Toulouse,Second Class,2,2,0,18.70999908,63.97999954
+Electronics,Western Europe,Amberes,Second Class,5,2,3,20.82999992,63.97999954
+Electronics,Western Europe,Dortmund,Second Class,2,2,0,1.149999976,95.97000122
+Electronics,Northern Europe,Loughborough,Second Class,2,2,0,36.27999878,143.9700012
+Electronics,Northern Europe,Tallinn,Second Class,6,2,4,62.31000137,155.9700012
+Electronics,Western Europe,Breda,Second Class,3,2,1,-24.27000046,191.9600067
+Electronics,Northern Europe,Walsall,Second Class,3,2,1,51.38999939,159.9499969
+Electronics,Northern Europe,Estocolmo,Standard Class,2,4,-2,26.12999916,89.98000336
+Electronics,Western Europe,Wels,Standard Class,5,4,1,-56.77999878,95.98000336
+Electronics,Western Europe,Augsburg,Standard Class,6,4,2,0.540000021,63.97999954
+Electronics,Western Europe,Spijkenisse,Standard Class,2,4,-2,57.58000183,127.9599991
+Electronics,Southern Europe,Marsala,Standard Class,3,4,-1,59.52000046,179.9600067
+Electronics,Western Europe,Viena,Standard Class,4,4,0,26.03000069,111.9599991
+Electronics,Eastern Europe,Poznan,Standard Class,2,4,-2,28.14999962,127.9599991
+Electronics,Western Europe,Troisdorf,Standard Class,6,4,2,65.51000214,239.9499969
+Electronics,Western Europe,Marseille,Standard Class,5,4,1,33.59000015,139.9499969
+Electronics,Northern Europe,Copenhagen,Standard Class,5,4,1,114.6399994,259.9500122
+Computers,Western Europe,Trier,First Class,2,1,1,91.66999817,1500.0
+Computers,Southern Europe,Alcobendas,First Class,2,1,1,612.75,1500.0
+Computers,Western Europe,Wetzlar,First Class,2,1,1,292.5,1500.0
+Electronics,Southern Europe,Murcia,First Class,2,1,1,11.77999973,44.99000168
+Electronics,Southern Europe,Rome,First Class,2,1,1,-239.5700073,95.98000336
+Electronics,Western Europe,Sannois,First Class,2,1,1,24.19000053,95.98000336
+Electronics,Northern Europe,London,First Class,2,1,1,29.13999939,95.97000122
+Electronics,Eastern Europe,Makhachkala,First Class,2,1,1,59.02999878,191.9600067
+Electronics,Western Europe,Chartres,Second Class,6,2,4,23.04000092,47.99000168
+Computers,Western Europe,Martigues,Second Class,5,2,3,183.75,1500.0
+Consumer Electronics,Northern Europe,Guildford,Second Class,2,2,0,7.590000153,252.8800049
+Electronics,Western Europe,Gronau,Second Class,3,2,1,2.369999886,31.98999977
+Electronics,Eastern Europe,Poznan,Second Class,4,2,2,10.40999985,31.98999977
+Electronics,Southern Europe,Velletri,Standard Class,2,4,-2,77.66999817,207.9600067
+Electronics,Western Europe,Viena,Standard Class,4,4,0,49.20000076,159.9499969
+Electronics,Northern Europe,Ipswich,Standard Class,6,4,2,55.36999893,259.9500122
+Electronics,Northern Europe,Turku,Standard Class,6,4,2,50.45000076,159.9499969
+Electronics,Western Europe,Clichy,Standard Class,3,4,-1,102.3199997,259.9500122
+Electronics,Southern Europe,Madrid,Standard Class,5,4,1,82.77999878,239.9499969
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,106.9700012,252.8800049
+Consumer Electronics,Western Europe,Neuilly-sur-Seine,First Class,2,1,1,66.48999786,252.8800049
+Computers,Western Europe,Apeldoorn,First Class,2,1,1,514.5,1500.0
+Electronics,Western Europe,Toulon,First Class,2,1,1,0.540000021,31.98999977
+Consumer Electronics,Western Europe,Cologne,First Class,2,1,1,83.44999695,252.8800049
+Electronics,Southern Europe,Amadora,First Class,2,1,1,15.61999989,47.99000168
+Electronics,Eastern Europe,J�rkov,First Class,2,1,1,-229.2799988,155.9700012
+Electronics,Southern Europe,Barcelona,First Class,2,1,1,22.84000015,111.9599991
+Electronics,Western Europe,Miramas,Same Day,1,0,1,10.71000004,44.99000168
+Computers,Northern Europe,Wolverhampton,Same Day,0,0,0,637.5,1500.0
+Computers,Western Europe,Bordeaux,Same Day,1,0,1,384.9899902,1500.0
+Consumer Electronics,Western Europe,Montpellier,Same Day,1,0,1,70.80999756,252.8800049
+Consumer Electronics,Western Europe,Paris,Second Class,2,2,0,-15.28999996,252.8800049
+Computers,Northern Europe,Sheffield,Second Class,3,2,1,141.75,1500.0
+Consumer Electronics,Western Europe,Nijmegen,Second Class,5,2,3,-37.09999847,252.8800049
+Electronics,Western Europe,Sceaux,Second Class,2,2,0,11.78999996,47.99000168
+Electronics,Northern Europe,Halmstad,Second Class,5,2,3,11.61999989,51.99000168
+Consumer Electronics,Western Europe,Doetinchem,Second Class,4,2,2,-47.79000092,252.8800049
+Electronics,Western Europe,Marseille,Second Class,5,2,3,-3.059999943,63.97999954
+Electronics,Western Europe,Paris,Second Class,6,2,4,36.18000031,159.9499969
+Computers,Western Europe,Emden,Standard Class,5,4,1,-660.0,1500.0
+Computers,Southern Europe,Barcelona,Standard Class,3,4,-1,371.25,1500.0
+Computers,Western Europe,Bremen,Standard Class,3,4,-1,464.8099976,1500.0
+Computers,Western Europe,Herne,Standard Class,3,4,-1,683.0999756,1500.0
+Computers,Western Europe,La Rochelle,Standard Class,5,4,1,638.5499878,1500.0
+Computers,Northern Europe,Hartlepool,Standard Class,5,4,1,705.5999756,1500.0
+Computers,Northern Europe,Glasgow,Standard Class,2,4,-2,129.3600006,1500.0
+Consumer Electronics,Southern Europe,Taranto,Standard Class,2,4,-2,86.73999786,252.8800049
+Computers,Western Europe,Bonn,Standard Class,4,4,0,-2255.25,1500.0
+Consumer Electronics,Southern Europe,Ponferrada,Standard Class,6,4,2,-194.2100067,252.8800049
+Computers,Western Europe,Bonn,Standard Class,3,4,-1,112.3199997,1500.0
+Consumer Electronics,Western Europe,Doetinchem,Standard Class,6,4,2,111.6699982,252.8800049
+Consumer Electronics,Northern Europe,Preston,Standard Class,4,4,0,108.1100006,252.8800049
+Consumer Electronics,Southern Europe,Barcelona,Standard Class,4,4,0,90.08999634,252.8800049
+Consumer Electronics,Southern Europe,Rome,Standard Class,6,4,2,-65.09999847,252.8800049
+Computers,Western Europe,Wuppertal,Standard Class,5,4,1,384.75,1500.0
+Consumer Electronics,Western Europe,Aschaffenburg,Standard Class,2,4,-2,81.19999695,252.8800049
+Consumer Electronics,Southern Europe,Oviedo,Standard Class,3,4,-1,85.37000275,252.8800049
+Computers,Western Europe,Torcy,Standard Class,4,4,0,139.5,1500.0
+Computers,Northern Europe,Bradford,Standard Class,4,4,0,641.5499878,1500.0
+Computers,Western Europe,Nanterre,Standard Class,5,4,1,204.75,1500.0
+Computers,Western Europe,Torcy,Standard Class,3,4,-1,477.75,1500.0
+Consumer Electronics,Western Europe,Oosterhout,Standard Class,3,4,-1,23.01000023,252.8800049
+Computers,Western Europe,Nanterre,Standard Class,4,4,0,364.5,1500.0
+Computers,Western Europe,Charleroi,Standard Class,5,4,1,356.3999939,1500.0
+Computers,Western Europe,Munich,Standard Class,6,4,2,594.0,1500.0
+Computers,Northern Europe,Dubl�n,Standard Class,5,4,1,277.9700012,1500.0
+Computers,Western Europe,Clamart,Standard Class,2,4,-2,417.6000061,1500.0
+Computers,Southern Europe,Amadora,Standard Class,2,4,-2,624.75,1500.0
+Computers,Western Europe,Angers,Standard Class,4,4,0,497.25,1500.0
+Consumer Electronics,Southern Europe,Capannori,Standard Class,3,4,-1,15.93000031,252.8800049
+Computers,Western Europe,Dreux,Standard Class,4,4,0,541.7999878,1500.0
+Computers,Western Europe,Palaiseau,Standard Class,4,4,0,365.3999939,1500.0
+Computers,Southern Europe,Madrid,Standard Class,3,4,-1,540.0,1500.0
+Consumer Electronics,Western Europe,Koblenz,Standard Class,6,4,2,-11.93999958,252.8800049
+Computers,Northern Europe,Runcorn,Standard Class,5,4,1,540.0,1500.0
+Consumer Electronics,Southern Europe,Monza,Standard Class,3,4,-1,51.20999908,252.8800049
+Consumer Electronics,Southern Europe,Capannori,Standard Class,4,4,0,-40.40000153,252.8800049
+Computers,Western Europe,Duisburg,Standard Class,5,4,1,-824.6300049,1500.0
+Consumer Electronics,Western Europe,Neunkirchen,Standard Class,6,4,2,55.0,252.8800049
+Electronics,Western Europe,Marseille,Standard Class,2,4,-2,13.68000031,44.99000168
+Electronics,Western Europe,Stuttgart,Standard Class,4,4,0,7.739999771,31.98999977
+Electronics,Western Europe,Viena,Standard Class,2,4,-2,13.17000008,31.98999977
+Electronics,Southern Europe,Cagliari,Standard Class,3,4,-1,10.02999973,31.98999977
+Electronics,Western Europe,San Galo,Standard Class,2,4,-2,4.699999809,47.99000168
+Electronics,Southern Europe,Ragusa,Standard Class,4,4,0,7.510000229,31.98999977
+Computers,Western Europe,Forbach,Standard Class,3,4,-1,525.0,1500.0
+Computers,Southern Europe,Valladolid,Standard Class,6,4,2,73.5,1500.0
+Consumer Electronics,Northern Europe,Estocolmo,Standard Class,6,4,2,116.5299988,252.8800049
+Computers,Northern Europe,Dubl�n,Standard Class,6,4,2,-314.1600037,1500.0
+Computers,Western Europe,Wasquehal,Standard Class,4,4,0,52.79999924,1500.0
+Electronics,Western Europe,Aix-en-Provence,Standard Class,6,4,2,3.880000114,31.98999977
+Electronics,Western Europe,Viena,Standard Class,3,4,-1,1.889999986,27.98999977
+Electronics,Western Europe,Aix-en-Provence,Standard Class,6,4,2,15.72000027,47.99000168
+Electronics,Western Europe,Cologne,Second Class,5,2,3,44.09999847,155.9700012
+Electronics,Western Europe,Reutlingen,Second Class,2,2,0,50.93999863,159.9499969
+Electronics,Southern Europe,Milan,Second Class,5,2,3,18.36000061,159.9499969
+Consumer Electronics,Western Europe,Berl�n,Standard Class,2,4,-2,119.4899979,252.8800049
+Consumer Electronics,Northern Europe,Oldham,Standard Class,3,4,-1,44.68000031,252.8800049
+Computers,Western Europe,Norderstedt,Standard Class,2,4,-2,675.0,1500.0
+Computers,Western Europe,Hamm,Standard Class,4,4,0,-1716.0,1500.0
+Consumer Electronics,Northern Europe,Dubl�n,Standard Class,3,4,-1,-342.1499939,252.8800049
+Computers,Western Europe,Bremen,Standard Class,2,4,-2,496.8599854,1500.0
+Computers,Western Europe,Velsen,Standard Class,4,4,0,529.2000122,1500.0
+Computers,Western Europe,Hayange,Standard Class,3,4,-1,-2351.25,1500.0
+Consumer Electronics,Western Europe,Heerlen,Standard Class,2,4,-2,-386.9100037,252.8800049
+Consumer Electronics,Northern Europe,York,Standard Class,2,4,-2,68.86000061,252.8800049
+Consumer Electronics,Western Europe,Wuppertal,Standard Class,4,4,0,80.61000061,252.8800049
+Consumer Electronics,Western Europe,Strasbourg,Standard Class,4,4,0,99.12999725,252.8800049
+Consumer Electronics,Southern Europe,Milan,Standard Class,5,4,1,-23.70999908,252.8800049
+Electronics,Western Europe,La Rochelle,Standard Class,5,4,1,9.279999733,31.98999977
+Computers,Northern Europe,Estocolmo,Standard Class,3,4,-1,382.2000122,1500.0
+Computers,Western Europe,Velsen,Standard Class,3,4,-1,209.5200043,1500.0
+Computers,Western Europe,Wels,Standard Class,3,4,-1,-283.5,1500.0
+Computers,Southern Europe,Madrid,Standard Class,4,4,0,343.2000122,1500.0
+Computers,Northern Europe,Helsinki,Standard Class,4,4,0,639.4500122,1500.0
+Consumer Electronics,Southern Europe,Valladolid,Standard Class,2,4,-2,79.86000061,252.8800049
+Computers,Western Europe,Nieuwegein,Standard Class,3,4,-1,324.0,1500.0
+Electronics,Eastern Europe,Rybnik,Standard Class,6,4,2,8.210000038,31.98999977
+Electronics,Northern Europe,Dubl�n,Standard Class,3,4,-1,-44.86999893,31.98999977
+Electronics,Western Europe,Chaumont,Standard Class,2,4,-2,-20.98999977,31.98999977
+Electronics,Western Europe,Sevran,Standard Class,2,4,-2,6.71999979,63.97999954
+Electronics,Western Europe,Avignon,Standard Class,2,4,-2,-3.529999971,55.97999954
+Electronics,Western Europe,Marseille,Standard Class,3,4,-1,27.82999992,63.97999954
+Electronics,Western Europe,Saint-Brieuc,Standard Class,2,4,-2,41.02999878,95.98000336
+Electronics,Western Europe,Greifswald,Standard Class,6,4,2,-13.84000015,51.99000168
+Electronics,Northern Europe,Leeds,Standard Class,6,4,2,12.60000038,47.99000168
+Electronics,Western Europe,Pulheim,Standard Class,4,4,0,14.07999992,63.97999954
+Electronics,Northern Europe,Bradford,Standard Class,2,4,-2,21.5,55.97999954
+Electronics,Western Europe,Jena,Standard Class,3,4,-1,9.180000305,63.97999954
+Computers,Western Europe,Velsen,Standard Class,5,4,1,653.4000244,1500.0
+Consumer Electronics,Western Europe,Doetinchem,Standard Class,2,4,-2,120.1900024,252.8800049
+Computers,Western Europe,Zurich,Standard Class,6,4,2,-18.71999931,1500.0
+Computers,Western Europe,Velsen,Standard Class,5,4,1,-354.3800049,1500.0
+Computers,Western Europe,Dresden,Standard Class,4,4,0,621.0,1500.0
+Computers,Northern Europe,Gateshead,Standard Class,4,4,0,352.3500061,1500.0
+Consumer Electronics,Western Europe,Berl�n,Standard Class,3,4,-1,104.0899963,252.8800049
+Consumer Electronics,Northern Europe,Dubl�n,Standard Class,4,4,0,76.19000244,252.8800049
+Computers,Western Europe,Berl�n,Standard Class,5,4,1,-1920.0,1500.0
+Computers,Western Europe,Lyon,Standard Class,4,4,0,300.0,1500.0
+Computers,Western Europe,Duisburg,Standard Class,3,4,-1,375.6000061,1500.0
+Consumer Electronics,Northern Europe,London,Standard Class,4,4,0,59.36000061,252.8800049
+Electronics,Western Europe,Menton,Standard Class,2,4,-2,13.02999973,47.99000168
+Electronics,Southern Europe,Madrid,Standard Class,6,4,2,0.0,51.99000168
+Electronics,Western Europe,Bordeaux,Standard Class,6,4,2,24.45000076,95.97000122
+Electronics,Eastern Europe,Oradea,Standard Class,2,4,-2,18.54000092,95.97000122
+Electronics,Southern Europe,Valladolid,Standard Class,3,4,-1,44.45000076,143.9700012
+Electronics,Western Europe,Duisburg,Standard Class,3,4,-1,15.55000019,95.97000122
+Electronics,Northern Europe,Guildford,Standard Class,3,4,-1,38.00999832,143.9700012
+Electronics,Western Europe,Brandenburgo,Standard Class,6,4,2,19.20000076,95.97000122
+Electronics,Western Europe,Linz,Standard Class,5,4,1,-84.63999939,111.9599991
+Electronics,Western Europe,Eragny,Standard Class,4,4,0,2.24000001,207.9600067
+Electronics,Northern Europe,Stockton-on-Tees,Standard Class,6,4,2,47.22000122,191.9600067
+Electronics,Eastern Europe,Liberec,Standard Class,2,4,-2,26.73999977,159.9499969
+Electronics,Western Europe,Saint-Herblain,Standard Class,6,4,2,88.54000092,239.9499969
+Electronics,Southern Europe,Palma de Mallorca,Standard Class,2,4,-2,33.59000015,159.9499969
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,-145.1499939,252.8800049
+Consumer Electronics,Western Europe,Nice,First Class,2,1,1,73.97000122,252.8800049
+Computers,Northern Europe,Blackpool,First Class,2,1,1,594.0,1500.0
+Electronics,Western Europe,Saint-Priest,First Class,2,1,1,1.299999952,134.9700012
+Electronics,Western Europe,Bressuire,First Class,2,1,1,55.93000031,127.9599991
+Electronics,Eastern Europe,Praga,Standard Class,3,4,-1,31.5699997,103.9800034
+Electronics,Western Europe,Saint-Genis-Laval,Standard Class,4,4,0,26.78000069,95.98000336
+Electronics,Western Europe,Weimar,Standard Class,5,4,1,16.70000076,63.97999954
+Electronics,Eastern Europe,Lviv,Standard Class,3,4,-1,41.43000031,103.9800034
+Electronics,Southern Europe,Viterbo,Standard Class,6,4,2,6.0,63.97999954
+Electronics,Western Europe,Boulogne-sur-Mer,Standard Class,5,4,1,12.96000004,63.97999954
+Electronics,Western Europe,Hamburgo,Standard Class,3,4,-1,17.20000076,63.97999954
+Electronics,Northern Europe,Basildon,Standard Class,2,4,-2,-24.57999992,95.98000336
+Electronics,Western Europe,Ginebra,Standard Class,6,4,2,43.52999878,103.9800034
+Electronics,Western Europe,Trier,Standard Class,4,4,0,25.90999985,63.97999954
+Electronics,Western Europe,Helmond,Standard Class,3,4,-1,92.13999939,239.9499969
+Electronics,Western Europe,Wels,Standard Class,6,4,2,60.31000137,259.9500122
+Consumer Electronics,Western Europe,Wiesbaden,First Class,2,1,1,76.43000031,252.8800049
+Computers,Western Europe,The Hague,First Class,2,1,1,-1188.0,1500.0
+Electronics,Southern Europe,Zamora,First Class,2,1,1,21.95999908,191.9600067
+Computers,Western Europe,Emden,Same Day,0,0,0,705.5999756,1500.0
+Consumer Electronics,Southern Europe,Brescia,Same Day,1,0,1,38.33000183,252.8800049
+Computers,Southern Europe,Lisbon,Second Class,3,2,1,705.0,1500.0
+Consumer Electronics,Western Europe,Berl�n,Second Class,3,2,1,108.1100006,252.8800049
+Electronics,Eastern Europe,Kaspiysk,Second Class,4,2,2,17.94000053,51.99000168
+Consumer Electronics,Southern Europe,Brescia,Second Class,4,2,2,82.54000092,252.8800049
+Computers,Western Europe,Hanover,Second Class,4,2,2,-2280.0,1500.0
+Consumer Electronics,Northern Europe,Copenhagen,Second Class,5,2,3,115.0599976,252.8800049
+Electronics,Western Europe,Pau,Second Class,3,2,1,26.20000076,111.9599991
+Electronics,Western Europe,Villeneuve-Saint-Georges,Second Class,2,2,0,-70.83999634,127.9599991
+Electronics,Eastern Europe,Vor�nezh,Second Class,3,2,1,43.0,191.9600067
+Computers,Southern Europe,Barcelona,Standard Class,2,4,-2,-600.0,1500.0
+Computers,Western Europe,Argenteuil,Standard Class,3,4,-1,169.5,1500.0
+Computers,Southern Europe,Arezzo,Standard Class,4,4,0,-42.63000107,1500.0
+Computers,Western Europe,Frankfurt,Standard Class,5,4,1,-1127.48999,1500.0
+Computers,Western Europe,Velsen,Standard Class,6,4,2,356.25,1500.0
+Consumer Electronics,Northern Europe,London,Standard Class,6,4,2,-70.55000305,252.8800049
+Computers,Western Europe,Champigny-sur-Marne,Standard Class,6,4,2,376.6499939,1500.0
+Consumer Electronics,Western Europe,Wuppertal,Standard Class,2,4,-2,106.9700012,252.8800049
+Computers,Southern Europe,Madrid,Standard Class,3,4,-1,639.4500122,1500.0
+Computers,Western Europe,Fontenay-aux-Roses,Standard Class,5,4,1,579.5999756,1500.0
+Consumer Electronics,Northern Europe,Estocolmo,Standard Class,3,4,-1,-18.46999931,252.8800049
+Computers,Western Europe,Fontenay-aux-Roses,Standard Class,4,4,0,510.4500122,1500.0
+Consumer Electronics,Western Europe,Amberes,Standard Class,6,4,2,62.97000122,252.8800049
+Consumer Electronics,Western Europe,Berl�n,Standard Class,2,4,-2,94.44999695,252.8800049
+Consumer Electronics,Western Europe,Berl�n,Standard Class,5,4,1,-38.02999878,252.8800049
+Electronics,Western Europe,Berl�n,Standard Class,5,4,1,1.909999967,27.98999977
+Electronics,Southern Europe,Madrid,Standard Class,2,4,-2,-18.76000023,31.98999977
+Electronics,Western Europe,Bayonne,Standard Class,6,4,2,3.599999905,31.98999977
+Electronics,Western Europe,Dresden,Standard Class,6,4,2,5.46999979,31.98999977
+Electronics,Western Europe,Dresden,Standard Class,2,4,-2,-38.25999832,134.9700012
+Electronics,Southern Europe,Rome,Standard Class,5,4,1,52.40999985,155.9700012
+Electronics,Northern Europe,London,Standard Class,4,4,0,41.95000076,95.97000122
+Electronics,Southern Europe,Rome,Standard Class,5,4,1,29.21999931,95.97000122
+Electronics,Western Europe,Cergy,Standard Class,5,4,1,62.13999939,155.9700012
+Electronics,Western Europe,Hanover,Standard Class,3,4,-1,62.38999939,155.9700012
+Electronics,Western Europe,Orsay,Standard Class,6,4,2,53.99000168,179.9600067
+Electronics,Northern Europe,Dubl�n,Standard Class,5,4,1,52.13999939,191.9600067
+Electronics,Northern Europe,Gothenburg,Standard Class,6,4,2,63.91999817,191.9600067
+Electronics,Southern Europe,Fuengirola,Standard Class,5,4,1,13.51000023,159.9499969
+Electronics,Northern Europe,Stoke-on-Trent,Standard Class,2,4,-2,11.88000011,159.9499969
+Electronics,Southern Europe,Milan,Standard Class,3,4,-1,61.79999924,139.9499969
+Electronics,Western Europe,Talence,Standard Class,3,4,-1,-237.9299927,159.9499969
+Electronics,Western Europe,Viena,Standard Class,5,4,1,26.72999954,259.9500122
+Electronics,Western Europe,Le Havre,Standard Class,5,4,1,88.69000244,239.9499969
+Consumer Electronics,Western Europe,Cologne,First Class,2,1,1,99.12999725,252.8800049
+Computers,Western Europe,Trier,First Class,2,1,1,468.0,1500.0
+Consumer Electronics,Western Europe,Nice,First Class,2,1,1,65.84999847,252.8800049
+Computers,Northern Europe,Gateshead,First Class,2,1,1,344.25,1500.0
+Consumer Electronics,Western Europe,Sorgues,First Class,2,1,1,22.86000061,252.8800049
+Electronics,Western Europe,Viena,First Class,2,1,1,14.51000023,31.98999977
+Computers,Western Europe,Lyon,First Class,2,1,1,450.0,1500.0
+Computers,Southern Europe,Vigo,First Class,2,1,1,99.5,1500.0
+Electronics,Western Europe,La Rochelle,First Class,2,1,1,11.18999958,31.98999977
+Computers,Western Europe,Munich,First Class,2,1,1,106.3099976,1500.0
+Electronics,Eastern Europe,Slupsk,First Class,2,1,1,6.0,63.97999954
+Electronics,Western Europe,Gelsenkirchen,First Class,2,1,1,2.849999905,95.98000336
+Electronics,Western Europe,Nancy,First Class,2,1,1,19.21999931,155.9700012
+Electronics,Northern Europe,Edinburgh,First Class,2,1,1,-40.8199997,127.9599991
+Electronics,Western Europe,Almelo,First Class,2,1,1,59.68000031,207.9600067
+Electronics,Northern Europe,Estocolmo,First Class,2,1,1,27.36000061,139.9499969
+Electronics,Western Europe,Saint-Malo,First Class,2,1,1,28.71999931,159.9499969
+Computers,Southern Europe,Vittoria,Same Day,0,0,0,446.4899902,1500.0
+Consumer Electronics,Western Europe,Wattrelos,Same Day,0,0,0,17.79999924,252.8800049
+Consumer Electronics,Northern Europe,London,Same Day,0,0,0,-406.25,252.8800049
+Electronics,Northern Europe,Cork,Same Day,0,0,0,-2.279999971,31.98999977
+Computers,Western Europe,Sarcelles,Second Class,2,2,0,534.5999756,1500.0
+Computers,Northern Europe,Aylesbury,Second Class,6,2,4,600.2999878,1500.0
+Consumer Electronics,Northern Europe,Edinburgh,Second Class,2,2,0,59.47999954,252.8800049
+Computers,Southern Europe,Rome,Second Class,6,2,4,103.9499969,1500.0
+Consumer Electronics,Southern Europe,Capannori,Second Class,2,2,0,78.36000061,252.8800049
+Consumer Electronics,Western Europe,Bressuire,Second Class,5,2,3,94.16999817,252.8800049
+Computers,Northern Europe,Southport,Second Class,6,2,4,455.4200134,1500.0
+Computers,Western Europe,Pontault-Combault,Second Class,5,2,3,585.9000244,1500.0
+Consumer Electronics,Western Europe,Melun,Second Class,6,2,4,59.16999817,252.8800049
+Consumer Electronics,Western Europe,Pontault-Combault,Second Class,5,2,3,4.449999809,252.8800049
+Consumer Electronics,Western Europe,Wilhelmshaven,Second Class,4,2,2,-37.93000031,252.8800049
+Computers,Southern Europe,Ravenna,Second Class,3,2,1,376.6499939,1500.0
+Computers,Southern Europe,Latina,Second Class,4,2,2,385.9500122,1500.0
+Electronics,Northern Europe,Oslo,Second Class,5,2,3,27.22999954,103.9800034
+Electronics,Eastern Europe,Lviv,Second Class,2,2,0,32.79999924,83.97000122
+Electronics,Eastern Europe,Sterlitamak,Second Class,6,2,4,-25.44000053,143.9700012
+Electronics,Southern Europe,Palma de Mallorca,Second Class,5,2,3,39.29999924,155.9700012
+Electronics,Western Europe,Essen,Second Class,6,2,4,29.87000084,95.97000122
+Electronics,Western Europe,Viena,Second Class,3,2,1,58.83000183,155.9700012
+Electronics,Western Europe,Pantin,Second Class,3,2,1,32.75,155.9700012
+Electronics,Western Europe,Paris,Second Class,2,2,0,49.13000107,224.9499969
+Electronics,Northern Europe,Dubl�n,Second Class,5,2,3,15.11999989,159.9499969
+Electronics,Northern Europe,Oslo,Second Class,2,2,0,-107.3399963,139.9499969
+Electronics,Southern Europe,Turin,Second Class,2,2,0,49.38000107,159.9499969
+Electronics,Eastern Europe,V�nnytsia,Second Class,3,2,1,3.880000114,159.9499969
+Computers,Northern Europe,Estocolmo,Standard Class,2,4,-2,720.0,1500.0
+Computers,Southern Europe,Rome,Standard Class,6,4,2,525.0,1500.0
+Computers,Northern Europe,Blackpool,Standard Class,3,4,-1,698.4000244,1500.0
+Computers,Western Europe,Hanover,Standard Class,5,4,1,698.4000244,1500.0
+Consumer Electronics,Western Europe,Halle,Standard Class,5,4,1,116.5299988,252.8800049
+Computers,Northern Europe,High Wycombe,Standard Class,2,4,-2,-174.3800049,1500.0
+Consumer Electronics,Western Europe,Lille,Standard Class,3,4,-1,66.0,252.8800049
+Computers,Western Europe,Dreux,Standard Class,5,4,1,599.25,1500.0
+Consumer Electronics,Western Europe,Wilhelmshaven,Standard Class,2,4,-2,18.46999931,252.8800049
+Computers,Northern Europe,Estocolmo,Standard Class,3,4,-1,483.75,1500.0
+Consumer Electronics,Northern Europe,London,Standard Class,2,4,-2,64.11000061,252.8800049
+Computers,Western Europe,Cologne,Standard Class,3,4,-1,-824.6300049,1500.0
+Electronics,Southern Europe,Foligno,Standard Class,5,4,1,0.589999974,51.99000168
+Electronics,Western Europe,Leipzig,Standard Class,2,4,-2,22.71999931,51.99000168
+Electronics,Eastern Europe,Nizhyn,Standard Class,4,4,0,-0.730000019,31.98999977
+Electronics,Western Europe,Marseille,Standard Class,4,4,0,4.539999962,31.98999977
+Electronics,Eastern Europe,Briansk,Standard Class,3,4,-1,4.559999943,31.98999977
+Consumer Electronics,Northern Europe,Northwich,Standard Class,6,4,2,-56.90000153,252.8800049
+Computers,Western Europe,Hanover,Standard Class,6,4,2,-1286.25,1500.0
+Computers,Northern Europe,London,Standard Class,5,4,1,125.4000015,1500.0
+Consumer Electronics,Western Europe,Viena,Standard Class,2,4,-2,105.6999969,252.8800049
+Computers,Western Europe,Paris,Standard Class,2,4,-2,490.0499878,1500.0
+Computers,Western Europe,Dreux,Standard Class,6,4,2,489.3800049,1500.0
+Computers,Western Europe,Den Helder,Standard Class,5,4,1,327.6000061,1500.0
+Consumer Electronics,Northern Europe,Crawley,Standard Class,6,4,2,78.70999908,252.8800049
+Computers,Western Europe,Viena,Standard Class,4,4,0,-93.37999725,1500.0
+Computers,Southern Europe,Madrid,Standard Class,5,4,1,338.25,1500.0
+Computers,Southern Europe,Venice,Standard Class,5,4,1,369.0,1500.0
+Computers,Western Europe,Pulheim,Standard Class,2,4,-2,399.75,1500.0
+Computers,Western Europe,Vaulx-en-Velin,Standard Class,2,4,-2,240.0,1500.0
+Electronics,Western Europe,Kaiserslautern,Standard Class,3,4,-1,6.769999981,27.98999977
+Computers,Southern Europe,Pescara,Standard Class,2,4,-2,-208.0700073,1500.0
+Consumer Electronics,Western Europe,Langen,Standard Class,3,4,-1,-34.13999939,252.8800049
+Electronics,Western Europe,Villemomble,Standard Class,2,4,-2,14.57999992,44.99000168
+Computers,Northern Europe,West Bromwich,Same Day,0,0,0,-1069.969971,1500.0
+Electronics,Eastern Europe,Praga,Same Day,0,0,0,-6.960000038,31.98999977
+Computers,Western Europe,Sarcelles,Second Class,6,2,4,441.0,1500.0
+Consumer Electronics,Western Europe,Halle,Second Class,6,2,4,-176.0899963,252.8800049
+Consumer Electronics,Northern Europe,Nottingham,Second Class,2,2,0,57.34999847,252.8800049
+Electronics,Eastern Europe,Chisin�u,Second Class,5,2,3,20.45999908,83.97000122
+Electronics,Western Europe,Marignane,Second Class,6,2,4,39.93000031,191.9600067
+Consumer Electronics,Western Europe,Wuppertal,Standard Class,5,4,1,77.0,252.8800049
+Computers,Western Europe,Nieuwegein,Standard Class,2,4,-2,-900.0,1500.0
+Consumer Electronics,Southern Europe,Porto,Standard Class,5,4,1,42.99000168,252.8800049
+Computers,Western Europe,Munich,Standard Class,2,4,-2,351.0,1500.0
+Consumer Electronics,Southern Europe,Madrid,Standard Class,2,4,-2,106.8199997,252.8800049
+Consumer Electronics,Western Europe,Cagnes-sur-Mer,Standard Class,2,4,-2,63.3199997,252.8800049
+Electronics,Southern Europe,Benevento,Standard Class,6,4,2,-24.72999954,44.99000168
+Consumer Electronics,Western Europe,Neunkirchen,Standard Class,5,4,1,-53.86000061,252.8800049
+Computers,Southern Europe,Palermo,Standard Class,2,4,-2,588.0,1500.0
+Consumer Electronics,Northern Europe,Estocolmo,Standard Class,2,4,-2,14.72000027,252.8800049
+Computers,Southern Europe,Elx,Standard Class,2,4,-2,323.0100098,1500.0
+Computers,Southern Europe,Palermo,Standard Class,4,4,0,166.7299957,1500.0
+Consumer Electronics,Western Europe,Paris,Standard Class,5,4,1,-26.87000084,252.8800049
+Consumer Electronics,Western Europe,Le Havre,Standard Class,4,4,0,72.65000153,252.8800049
+Computers,Western Europe,Palaiseau,Standard Class,3,4,-1,286.3500061,1500.0
+Electronics,Western Europe,Cologne,Standard Class,2,4,-2,31.75,95.98000336
+Electronics,Southern Europe,Naples,Standard Class,2,4,-2,27.96999931,63.97999954
+Electronics,Western Europe,Berl�n,Standard Class,3,4,-1,29.87999916,134.9700012
+Electronics,Northern Europe,Helsinki,Standard Class,3,4,-1,6.110000134,95.97000122
+Electronics,Western Europe,Noisy-le-Grand,Same Day,0,0,0,12.81000042,134.9700012
+Computers,Northern Europe,Rotherham,Second Class,3,2,1,690.9000244,1500.0
+Computers,Northern Europe,Dudley,Second Class,4,2,2,269.3299866,1500.0
+Computers,Western Europe,Charleroi,Second Class,3,2,1,697.5,1500.0
+Consumer Electronics,Western Europe,Laon,Second Class,2,2,0,43.72000122,252.8800049
+Electronics,Eastern Europe,Berdyans'k,Second Class,3,2,1,-35.43999863,51.99000168
+Electronics,Western Europe,Paris,Second Class,3,2,1,4.929999828,47.99000168
+Electronics,Northern Europe,Sandnes,Second Class,3,2,1,11.39999962,63.97999954
+Electronics,Western Europe,Paris,Second Class,3,2,1,-13.42000008,83.97000122
+Electronics,Southern Europe,Bilbao,Second Class,5,2,3,-9.289999962,134.9700012
+Electronics,Western Europe,Berl�n,Second Class,4,2,2,5.639999866,95.97000122
+Electronics,Northern Europe,Hartlepool,Second Class,6,2,4,-93.34999847,179.9600067
+Electronics,Eastern Europe,Constanza,Second Class,6,2,4,53.99000168,179.9600067
+Electronics,Eastern Europe,Sofia,Second Class,6,2,4,72.11000061,159.9499969
+Electronics,Southern Europe,Madrid,Second Class,4,2,2,72.29000092,239.9499969
+Electronics,Western Europe,Metz,Standard Class,3,4,-1,-36.18000031,31.98999977
+Consumer Electronics,Southern Europe,Elx,Standard Class,2,4,-2,12.39000034,252.8800049
+Computers,Western Europe,Bayonne,Standard Class,5,4,1,-324.0,1500.0
+Consumer Electronics,Western Europe,Duisburg,Standard Class,3,4,-1,-36.04000092,252.8800049
+Consumer Electronics,Western Europe,Pessac,Standard Class,2,4,-2,8.890000343,252.8800049
+Consumer Electronics,Southern Europe,Barcelona,Standard Class,3,4,-1,-27.0,252.8800049
+Computers,Western Europe,Champigny-sur-Marne,Standard Class,2,4,-2,460.6900024,1500.0
+Computers,Western Europe,Paris,Standard Class,6,4,2,429.0,1500.0
+Consumer Electronics,Western Europe,Amberes,Standard Class,3,4,-1,67.27999878,252.8800049
+Computers,Southern Europe,Madrid,Standard Class,3,4,-1,239.3999939,1500.0
+Consumer Electronics,Western Europe,Bochum,Standard Class,5,4,1,18.25,252.8800049
+Computers,Southern Europe,Oviedo,Standard Class,4,4,0,150.0,1500.0
+Computers,Western Europe,Pulheim,Standard Class,6,4,2,-3000.0,1500.0
+Computers,Western Europe,Emden,Standard Class,6,4,2,324.0,1500.0
+Computers,Western Europe,Bonneuil-sur-Marne,Standard Class,6,4,2,183.3800049,1500.0
+Electronics,Eastern Europe,Cheli�binsk,Standard Class,4,4,0,3.400000095,44.99000168
+Electronics,Western Europe,Nuremberg,Standard Class,5,4,1,11.42000008,27.98999977
+Electronics,Western Europe,Clermont-Ferrand,Standard Class,5,4,1,15.43999958,51.99000168
+Electronics,Western Europe,Saint-Avold,Standard Class,4,4,0,18.71999931,47.99000168
+Electronics,Northern Europe,London,Standard Class,5,4,1,31.73999977,95.97000122
+Electronics,Southern Europe,Madrid,Standard Class,4,4,0,42.43000031,134.9700012
+Electronics,Western Europe,Herford,Standard Class,4,4,0,20.87000084,95.97000122
+Electronics,Eastern Europe,Bud�nnovsk,Standard Class,4,4,0,-61.83000183,95.97000122
+Electronics,Northern Europe,Kilwinning,Standard Class,2,4,-2,-16.37999916,155.9700012
+Electronics,Western Europe,Mulhouse,Standard Class,6,4,2,51.5699997,111.9599991
+Electronics,Western Europe,Cologne,Standard Class,6,4,2,27.63999939,127.9599991
+Electronics,Western Europe,Marseille,Standard Class,5,4,1,19.20000076,191.9600067
+Electronics,Western Europe,Saint-Michel-sur-Orge,Standard Class,5,4,1,-323.0700073,191.9600067
+Electronics,Western Europe,Oyonnax,Standard Class,4,4,0,59.25,127.9599991
+Electronics,Western Europe,Hamburgo,Standard Class,2,4,-2,12.72000027,127.9599991
+Electronics,Western Europe,Bochum,Standard Class,5,4,1,-15.93000031,127.9599991
+Electronics,Western Europe,Montpellier,Standard Class,6,4,2,32.27999878,127.9599991
+Electronics,Eastern Europe,J�rkov,Standard Class,6,4,2,14.68999958,55.97999954
+Electronics,Eastern Europe,Sofia,Standard Class,3,4,-1,30.10000038,63.97999954
+Electronics,Eastern Europe,Vor�nezh,Standard Class,6,4,2,9.760000229,95.98000336
+Electronics,Western Europe,Rotterdam,Standard Class,4,4,0,-122.3700027,95.98000336
+Electronics,Northern Europe,Rugby,Standard Class,3,4,-1,35.99000168,89.98000336
+Electronics,Northern Europe,Loughborough,Standard Class,3,4,-1,-18.60000038,95.98000336
+Electronics,Western Europe,Pontivy,Standard Class,6,4,2,26.19000053,89.98000336
+Electronics,Western Europe,Capelle aan den IJssel,Standard Class,3,4,-1,40.25999832,103.9800034
+Electronics,Southern Europe,Pescara,Standard Class,2,4,-2,55.27000046,134.9700012
+Electronics,Northern Europe,Coventry,Standard Class,3,4,-1,-29.36000061,134.9700012
+Electronics,Eastern Europe,Uvarovo,Standard Class,4,4,0,32.38999939,95.97000122
+Electronics,Northern Europe,Kettering,Standard Class,2,4,-2,22.53000069,95.97000122
+Electronics,Western Europe,Utrecht,Standard Class,6,4,2,24.45000076,95.97000122
+Electronics,Western Europe,Celle,Standard Class,3,4,-1,40.49000168,143.9700012
+Electronics,Northern Europe,Estocolmo,Standard Class,3,4,-1,11.88000011,179.9600067
+Electronics,Eastern Europe,Arkhangelsk,Standard Class,2,4,-2,-26.37999916,127.9599991
+Electronics,Western Europe,Lucerna,Standard Class,6,4,2,9.770000458,159.9499969
+Electronics,Northern Europe,Gateshead,Standard Class,4,4,0,30.0699997,159.9499969
+Electronics,Western Europe,Karlsruhe,Standard Class,2,4,-2,63.86999893,259.9500122
+Electronics,Western Europe,Antibes,Standard Class,5,4,1,70.55999756,239.9499969
+Electronics,Northern Europe,Edinburgh,Standard Class,2,4,-2,4.079999924,239.9499969
+Electronics,Eastern Europe,Khmelnytskyi,First Class,2,1,1,39.84000015,179.9600067
+Consumer Electronics,Southern Europe,Florence,Same Day,1,0,1,73.63999939,252.8800049
+Electronics,Eastern Europe,Astrac�n,Second Class,2,2,0,66.62000275,159.9499969
+Computers,Western Europe,Fresnes,Standard Class,5,4,1,459.0,1500.0
+Electronics,Eastern Europe,Ufa,Standard Class,2,4,-2,34.22999954,95.97000122
+Electronics,Western Europe,Cologne,Standard Class,3,4,-1,-1.659999967,127.9599991
+Electronics,Western Europe,Cologne,Standard Class,3,4,-1,82.04000092,179.9600067
+Electronics,Western Europe,Nice,Standard Class,6,4,2,51.11999893,127.9599991
+Electronics,Southern Europe,Ferrara,Standard Class,3,4,-1,2.140000105,224.9499969
+Consumer Electronics,Western Europe,Berl�n,First Class,2,1,1,-169.9400024,252.8800049
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,2.150000095,252.8800049
+Consumer Electronics,Southern Europe,Valladolid,First Class,2,1,1,-9.239999771,252.8800049
+Computers,Southern Europe,Getxo,First Class,2,1,1,74.40000153,1500.0
+Electronics,Eastern Europe,Galati,First Class,2,1,1,19.73999977,207.9600067
+Electronics,Western Europe,Rouen,Same Day,1,0,1,14.18999958,55.97999954
+Computers,Western Europe,Ghent,Second Class,5,2,3,484.5,1500.0
+Consumer Electronics,Western Europe,Offenbach,Second Class,3,2,1,10.10000038,252.8800049
+Computers,Southern Europe,Latina,Second Class,5,2,3,567.0,1500.0
+Computers,Western Europe,Bonn,Second Class,5,2,3,405.6000061,1500.0
+Electronics,Southern Europe,Naples,Second Class,2,2,0,7.050000191,95.98000336
+Electronics,Western Europe,Sorgues,Second Class,4,2,2,-8.640000343,95.97000122
+Computers,Northern Europe,Estocolmo,Standard Class,6,4,2,525.0,1500.0
+Consumer Electronics,Western Europe,Viena,Standard Class,5,4,1,0.0,252.8800049
+Computers,Northern Europe,Lincoln,Standard Class,4,4,0,545.6300049,1500.0
+Computers,Western Europe,Viena,Standard Class,2,4,-2,712.9500122,1500.0
+Computers,Western Europe,Trier,Standard Class,3,4,-1,330.0,1500.0
+Computers,Southern Europe,Madrid,Standard Class,4,4,0,-130.5,1500.0
+Computers,Western Europe,Trier,Standard Class,6,4,2,548.25,1500.0
+Computers,Southern Europe,Barcelona,Standard Class,6,4,2,410.8500061,1500.0
+Computers,Western Europe,Berl�n,Standard Class,3,4,-1,430.5,1500.0
+Consumer Electronics,Western Europe,Berl�n,Standard Class,6,4,2,72.58000183,252.8800049
+Consumer Electronics,Western Europe,Offenbach,Standard Class,4,4,0,22.86000061,252.8800049
+Electronics,Western Europe,Muret,Standard Class,6,4,2,8.68999958,31.98999977
+Electronics,Northern Europe,Glasgow,Standard Class,3,4,-1,0.839999974,44.99000168
+Electronics,Southern Europe,Rome,Standard Class,3,4,-1,15.52000046,31.98999977
+Electronics,Western Europe,Bastia,Standard Class,2,4,-2,-11.85999966,47.99000168
+Consumer Electronics,Northern Europe,Cork,Standard Class,5,4,1,110.0,252.8800049
+Computers,Western Europe,Bremen,Standard Class,5,4,1,-1800.0,1500.0
+Electronics,Western Europe,Marseille,Standard Class,3,4,-1,15.35999966,63.97999954
+Electronics,Eastern Europe,Kaluga,Standard Class,4,4,0,10.52000046,95.98000336
+Electronics,Western Europe,Genk,Standard Class,5,4,1,8.760000229,95.97000122
+Electronics,Western Europe,Muret,Standard Class,6,4,2,20.87999916,127.9599991
+Electronics,Western Europe,Berl�n,Standard Class,3,4,-1,-9.460000038,127.9599991
+Electronics,Western Europe,Gera,Standard Class,6,4,2,47.99000168,127.9599991
+Electronics,Western Europe,Nice,Standard Class,5,4,1,46.45000076,159.9499969
+Consumer Electronics,Southern Europe,Brescia,First Class,2,1,1,74.80000305,252.8800049
+Electronics,Western Europe,Hayange,First Class,2,1,1,2.400000095,31.98999977
+Electronics,Southern Europe,Palermo,First Class,2,1,1,5.590000153,63.97999954
+Consumer Electronics,Southern Europe,Torre del Greco,Same Day,0,0,0,107.4700012,252.8800049
+Electronics,Western Europe,Sarcelles,Standard Class,6,4,2,11.01000023,95.98000336
+Electronics,Northern Europe,Wolverhampton,Standard Class,6,4,2,6.869999886,63.97999954
+Electronics,Western Europe,Pontivy,Standard Class,3,4,-1,-3.569999933,95.97000122
+Electronics,Western Europe,Dorsten,Standard Class,6,4,2,44.97000122,134.9700012
+Electronics,Western Europe,Groningen,Standard Class,5,4,1,3.930000067,95.97000122
+Electronics,Western Europe,Miramas,Standard Class,5,4,1,48.27000046,127.9599991
+Electronics,Western Europe,Karlsruhe,Standard Class,2,4,-2,38.06000137,127.9599991
+Electronics,Western Europe,Rennes,Standard Class,4,4,0,16.21999931,191.9600067
+Electronics,Southern Europe,Valencia,Standard Class,6,4,2,66.19999695,191.9600067
+Electronics,Eastern Europe,Sevastopol,Standard Class,3,4,-1,50.06000137,207.9600067
+Electronics,Eastern Europe,Mykolayiv,Standard Class,3,4,-1,-176.4799957,139.9499969
+Electronics,Southern Europe,Naples,Standard Class,3,4,-1,40.8199997,159.9499969
+Electronics,Southern Europe,Bologna,Standard Class,2,4,-2,43.18999863,159.9499969
+Electronics,Western Europe,Wuppertal,Standard Class,3,4,-1,112.0899963,259.9500122
+Electronics,Southern Europe,Prato,Standard Class,3,4,-1,68.23999786,259.9500122
+Consumer Electronics,Southern Europe,Madrid,First Class,2,1,1,70.40000153,252.8800049
+Electronics,Western Europe,Berl�n,First Class,2,1,1,12.0699997,31.98999977
+Computers,Southern Europe,Ravenna,First Class,2,1,1,354.8999939,1500.0
+Computers,Western Europe,Hazebrouck,First Class,2,1,1,661.5,1500.0
+Computers,Western Europe,Albi,First Class,2,1,1,535.5,1500.0
+Electronics,Northern Europe,Widnes,First Class,2,1,1,25.38999939,95.97000122
+Electronics,Western Europe,Reims,First Class,2,1,1,38.34000015,95.97000122
+Electronics,Northern Europe,Nacka,First Class,2,1,1,8.06000042,159.9499969
+Electronics,Western Europe,Berl�n,First Class,2,1,1,78.3199997,259.9500122
+Electronics,Western Europe,Marseille,First Class,2,1,1,41.75,159.9499969
+Consumer Electronics,Western Europe,Koblenz,Same Day,1,0,1,64.90000153,252.8800049
+Consumer Electronics,Northern Europe,London,Same Day,0,0,0,14.8199997,252.8800049
+Consumer Electronics,Western Europe,Le Havre,Same Day,1,0,1,10.75,252.8800049
+Electronics,Eastern Europe,Budapest,Same Day,1,0,1,60.25999832,134.9700012
+Consumer Electronics,Western Europe,Nantes,Second Class,5,2,3,0.0,252.8800049
+Consumer Electronics,Northern Europe,Waterlooville,Second Class,6,2,4,69.30000305,252.8800049
+Consumer Electronics,Southern Europe,Torre del Greco,Second Class,4,2,2,46.72999954,252.8800049
+Consumer Electronics,Southern Europe,Capannori,Second Class,3,2,1,91.80000305,252.8800049
+Consumer Electronics,Western Europe,Viena,Second Class,3,2,1,15.21000004,252.8800049
+Consumer Electronics,Northern Europe,Estocolmo,Second Class,2,2,0,-138.3099976,252.8800049
+Electronics,Western Europe,Berl�n,Second Class,6,2,4,-7.78000021,63.97999954
+Electronics,Northern Europe,London,Second Class,6,2,4,6.360000134,63.97999954
+Electronics,Eastern Europe,Cheli�binsk,Second Class,5,2,3,40.65999985,103.9800034
+Electronics,Western Europe,Palaiseau,Second Class,5,2,3,62.84000015,134.9700012
+Electronics,Eastern Europe,Ufa,Second Class,5,2,3,10.19999981,95.97000122
+Electronics,Western Europe,Dax,Standard Class,6,4,2,0.610000014,31.98999977
+Computers,Northern Europe,Runcorn,Standard Class,4,4,0,30.0,1500.0
+Consumer Electronics,Southern Europe,Seville,Standard Class,3,4,-1,61.15000153,252.8800049
+Consumer Electronics,Western Europe,Dresden,Standard Class,6,4,2,38.68999863,252.8800049
+Computers,Northern Europe,Glasgow,Standard Class,3,4,-1,-316.3099976,1500.0
+Computers,Southern Europe,Madrid,Standard Class,5,4,1,374.3999939,1500.0
+Consumer Electronics,Western Europe,Aschaffenburg,Standard Class,6,4,2,17.92000008,252.8800049
+Consumer Electronics,Southern Europe,Barcelona,Standard Class,6,4,2,66.73999786,252.8800049
+Computers,Western Europe,Boulogne-Billancourt,Standard Class,6,4,2,409.5,1500.0
+Computers,Western Europe,Torcy,Standard Class,2,4,-2,118.8000031,1500.0
+Computers,Southern Europe,Trieste,Standard Class,6,4,2,620.4000244,1500.0
+Computers,Southern Europe,Afragola,Standard Class,5,4,1,639.4500122,1500.0
+Consumer Electronics,Southern Europe,Capannori,Standard Class,2,4,-2,18.46999931,252.8800049
+Consumer Electronics,Southern Europe,Capannori,Standard Class,5,4,1,-2.630000114,252.8800049
+Computers,Southern Europe,Barcelona,Standard Class,3,4,-1,127.1299973,1500.0
+Electronics,Eastern Europe,Lodz,Standard Class,3,4,-1,-5.820000172,51.99000168
+Electronics,Western Europe,Berl�n,Standard Class,5,4,1,4.920000076,47.99000168
+Computers,Southern Europe,Pescara,Standard Class,6,4,2,403.2000122,1500.0
+Computers,Southern Europe,Valladolid,Standard Class,3,4,-1,456.75,1500.0
+Electronics,Eastern Europe,Varna,Standard Class,4,4,0,23.70999908,95.98000336
+Electronics,Northern Europe,London,Standard Class,6,4,2,10.73999977,95.97000122
+Electronics,Western Europe,Berl�n,Standard Class,2,4,-2,-240.9799957,95.97000122
+Electronics,Western Europe,Hasselt,Standard Class,6,4,2,10.07999992,95.97000122
+Electronics,Western Europe,Beaune,Standard Class,5,4,1,-77.98999786,155.9700012
+Electronics,Western Europe,Viena,Standard Class,6,4,2,13.82999992,143.9700012
+Electronics,Western Europe,Castrop-Rauxel,Standard Class,4,4,0,2.380000114,127.9599991
+Electronics,Eastern Europe,Budapest,Standard Class,6,4,2,17.69000053,179.9600067
+Electronics,Northern Europe,Poole,Standard Class,4,4,0,13.10000038,191.9600067
+Electronics,Northern Europe,Blackpool,Standard Class,5,4,1,16.3199997,191.9600067
+Consumer Electronics,Western Europe,Marseille,Standard Class,5,4,1,110.4599991,252.8800049
+Consumer Electronics,Southern Europe,Naples,Standard Class,5,4,1,-343.9200134,252.8800049
+Consumer Electronics,Western Europe,Hanover,Standard Class,2,4,-2,38.25999832,252.8800049
+Electronics,Western Europe,Chelles,Standard Class,4,4,0,44.47999954,103.9800034
+Electronics,Western Europe,Paris,Standard Class,6,4,2,41.59000015,103.9800034
+Electronics,Western Europe,Neunkirchen,Standard Class,5,4,1,36.68000031,95.97000122
+Electronics,Northern Europe,Lowestoft,Standard Class,5,4,1,15.65999985,179.9600067
+Electronics,Western Europe,Linz,Standard Class,2,4,-2,70.70999908,207.9600067
+Electronics,Northern Europe,Tamworth,Standard Class,3,4,-1,68.02999878,191.9600067
+Electronics,Southern Europe,Madrid,Standard Class,2,4,-2,-2.190000057,159.9499969
+Consumer Electronics,Western Europe,Herford,First Class,2,1,1,-375.5299988,252.8800049
+Consumer Electronics,Western Europe,Zaanstad,First Class,2,1,1,103.4800034,252.8800049
+Consumer Electronics,Western Europe,Aschaffenburg,First Class,2,1,1,-180.3800049,252.8800049
+Electronics,Eastern Europe,Briansk,First Class,2,1,1,61.0699997,159.9499969
+Consumer Electronics,Southern Europe,Cartagena,Second Class,6,2,4,-63.22000122,252.8800049
+Computers,Western Europe,Lomme,Second Class,6,2,4,561.0,1500.0
+Consumer Electronics,Western Europe,Toulouse,Second Class,6,2,4,89.01000214,252.8800049
+Electronics,Western Europe,Ghent,Second Class,3,2,1,63.15000153,159.9499969
+Computers,Southern Europe,Arezzo,Standard Class,3,4,-1,309.9200134,1500.0
+Computers,Western Europe,Marseille,Standard Class,5,4,1,-466.5599976,1500.0
+Computers,Western Europe,Munich,Standard Class,3,4,-1,136.5,1500.0
+Computers,Western Europe,Trier,Standard Class,2,4,-2,39.15000153,1500.0
+Computers,Southern Europe,Madrid,Standard Class,3,4,-1,-212.9299927,1500.0
+Consumer Electronics,Western Europe,Offenbach,Standard Class,2,4,-2,15.93000031,252.8800049
+Computers,Western Europe,Hamm,Standard Class,4,4,0,24.60000038,1500.0
+Electronics,Western Europe,Boulogne-Billancourt,Standard Class,5,4,1,22.5,44.99000168
+Electronics,Northern Europe,Sheffield,Standard Class,6,4,2,11.19999981,31.98999977
+Electronics,Western Europe,Boulogne-Billancourt,Standard Class,3,4,-1,11.82999992,47.99000168
+Electronics,Northern Europe,Runcorn,Standard Class,2,4,-2,7.96999979,83.97000122
+Electronics,Northern Europe,Stavanger,Standard Class,6,4,2,3.059999943,155.9700012
+Electronics,Western Europe,Evreux,Standard Class,2,4,-2,8.56000042,155.9700012
+Electronics,Southern Europe,Tarragona,Standard Class,2,4,-2,13.77000046,95.97000122
+Electronics,Western Europe,Bressuire,Standard Class,4,4,0,9.119999886,127.9599991
+Electronics,Western Europe,Toulouse,Standard Class,5,4,1,31.79999924,179.9600067
+Electronics,Southern Europe,Dos Hermanas,Standard Class,3,4,-1,30.47999954,139.9499969
+Electronics,Northern Europe,Gloucester,Standard Class,2,4,-2,-375.7200012,159.9499969
+Electronics,Eastern Europe,Orsha,Standard Class,2,4,-2,13.60000038,159.9499969
+Consumer Electronics,Southern Europe,Cartagena,First Class,2,1,1,90.08999634,252.8800049
+Computers,Southern Europe,Valladolid,First Class,2,1,1,523.1300049,1500.0
+Electronics,Eastern Europe,Bra?ov,First Class,2,1,1,12.38000011,207.9600067
+Computers,Southern Europe,Rome,Same Day,0,0,0,341.25,1500.0
+Consumer Electronics,Southern Europe,Florence,Same Day,1,0,1,31.40999985,252.8800049
+Electronics,Western Europe,Dresden,Same Day,1,0,1,1.75,95.98000336
+Electronics,Eastern Europe,Makhachkala,Same Day,1,0,1,62.95999908,159.9499969
+Computers,Western Europe,Argenteuil,Second Class,4,2,2,-862.8800049,1500.0
+Electronics,Western Europe,Paris,Second Class,4,2,2,9.609999657,31.98999977
+Computers,Southern Europe,Cerignola,Second Class,4,2,2,-3442.5,1500.0
+Electronics,Western Europe,Cholet,Second Class,5,2,3,11.31000042,51.99000168
+Computers,Western Europe,Meudon,Standard Class,2,4,-2,281.25,1500.0
+Electronics,Eastern Europe,Kryvyy Rih,Standard Class,5,4,1,12.73999977,31.98999977
+Computers,Northern Europe,Bolton,Standard Class,6,4,2,519.75,1500.0
+Computers,Northern Europe,Huddinge,Standard Class,3,4,-1,427.5,1500.0
+Computers,Western Europe,Angers,Standard Class,4,4,0,57.0,1500.0
+Consumer Electronics,Western Europe,Berl�n,Standard Class,6,4,2,109.0400009,252.8800049
+Consumer Electronics,Northern Europe,Cork,Standard Class,4,4,0,18.92000008,252.8800049
+Computers,Western Europe,Hamm,Standard Class,5,4,1,585.1500244,1500.0
+Consumer Electronics,Southern Europe,Elx,Standard Class,5,4,1,-13.06000042,252.8800049
+Computers,Western Europe,Berl�n,Standard Class,2,4,-2,375.6000061,1500.0
+Electronics,Southern Europe,Torrevieja,Standard Class,6,4,2,14.25,51.99000168
+Electronics,Northern Europe,Dubl�n,Standard Class,2,4,-2,1.149999976,31.98999977
+Computers,Northern Europe,Kettering,Standard Class,4,4,0,466.8800049,1500.0
+Electronics,Western Europe,Nice,Standard Class,4,4,0,14.34000015,63.97999954
+Electronics,Western Europe,Berl�n,Standard Class,3,4,-1,22.54999924,143.9700012
+Electronics,Northern Europe,Dubl�n,Standard Class,2,4,-2,45.31000137,155.9700012
+Electronics,Western Europe,Angers,Standard Class,4,4,0,41.52000046,127.9599991
+Electronics,Northern Europe,Nottingham,Standard Class,3,4,-1,-200.5800018,127.9599991
+Electronics,Western Europe,Alphen aan den Rijn,Standard Class,6,4,2,-318.8699951,224.9499969
+Electronics,Western Europe,Ulm,Standard Class,5,4,1,79.26000214,239.9499969
+Consumer Electronics,Western Europe,Pessac,First Class,2,1,1,80.76999664,252.8800049
+Computers,Northern Europe,Gateshead,First Class,2,1,1,436.6400146,1500.0
+Computers,Southern Europe,Alcobendas,First Class,2,1,1,488.25,1500.0
+Electronics,Southern Europe,Rome,First Class,2,1,1,-24.90999985,127.9599991
+Electronics,Eastern Europe,Piotrkow Trybunalski,First Class,2,1,1,40.31000137,159.9499969
+Electronics,Southern Europe,Treviso,Same Day,0,0,0,9.359999657,103.9800034
+Consumer Electronics,Northern Europe,Northwich,Second Class,5,2,3,72.59999847,252.8800049
+Consumer Electronics,Western Europe,Halle,Second Class,4,2,2,85.37000275,252.8800049
+Electronics,Eastern Europe,Bialystok,Second Class,2,2,0,7.099999905,27.98999977
+Electronics,Northern Europe,Swansea,Second Class,3,2,1,-0.550000012,51.99000168
+Electronics,Northern Europe,Cardiff,Second Class,2,2,0,38.54999924,179.9600067
+Electronics,Eastern Europe,Bialystok,Second Class,2,2,0,46.38999939,159.9499969
+Computers,Northern Europe,Gloucester,Standard Class,4,4,0,697.9500122,1500.0
+Computers,Northern Europe,Estocolmo,Standard Class,6,4,2,519.75,1500.0
+Computers,Western Europe,Lyon,Standard Class,6,4,2,464.8099976,1500.0
+Consumer Electronics,Western Europe,Lyon,Standard Class,2,4,-2,60.08000183,252.8800049
+Consumer Electronics,Western Europe,Augsburg,Standard Class,2,4,-2,27.43000031,252.8800049
+Computers,Northern Europe,Gateshead,Standard Class,6,4,2,351.0,1500.0
+Computers,Southern Europe,Amadora,Standard Class,3,4,-1,626.4000244,1500.0
+Computers,Northern Europe,Dubl�n,Standard Class,4,4,0,127.5,1500.0
+Consumer Electronics,Western Europe,Montpellier,Standard Class,4,4,0,68.20999908,252.8800049
+Electronics,Eastern Europe,Budapest,Standard Class,3,4,-1,2.450000048,31.98999977
+Electronics,Eastern Europe,Ivanovo,Standard Class,3,4,-1,-10.27000046,51.99000168
+Electronics,Eastern Europe,Ivanovo,Standard Class,3,4,-1,32.72999954,89.98000336
+Electronics,Western Europe,Gap,Standard Class,4,4,0,14.40999985,103.9800034
+Electronics,Western Europe,Apeldoorn,Standard Class,2,4,-2,62.18999863,134.9700012
+Electronics,Northern Europe,Derby,Standard Class,5,4,1,52.11999893,111.9599991
+Electronics,Western Europe,Chilly-Mazarin,Standard Class,3,4,-1,52.40999985,259.9500122
+Computers,Western Europe,Montmorency,First Class,2,1,1,356.3999939,1500.0
+Consumer Electronics,Southern Europe,Naples,First Class,2,1,1,-371.730011,252.8800049
+Consumer Electronics,Northern Europe,London,First Class,2,1,1,55.0,252.8800049
+Electronics,Western Europe,Sarcelles,First Class,2,1,1,8.609999657,27.98999977
+Electronics,Western Europe,Hamburgo,First Class,2,1,1,3.390000105,51.99000168
+Electronics,Northern Europe,Huddersfield,First Class,2,1,1,3.400000095,31.98999977
+Electronics,Southern Europe,Badalona,First Class,2,1,1,1.820000052,95.97000122
+Electronics,Southern Europe,Cagliari,First Class,2,1,1,37.43000031,127.9599991
+Electronics,Western Europe,Carcassonne,First Class,2,1,1,37.63000107,127.9599991
+Electronics,Northern Europe,London,First Class,2,1,1,-23.45000076,111.9599991
+Electronics,Northern Europe,Oslo,First Class,2,1,1,32.84999847,139.9499969
+Electronics,Western Europe,Boulogne-Billancourt,First Class,2,1,1,45.56000137,159.9499969
+Electronics,Southern Europe,Zamora,First Class,2,1,1,35.29999924,139.9499969
+Consumer Electronics,Southern Europe,Seville,Same Day,0,0,0,9.81000042,252.8800049
+Consumer Electronics,Western Europe,Wattrelos,Same Day,0,0,0,38.97999954,252.8800049
+Electronics,Western Europe,Essen,Same Day,1,0,1,-69.61000061,127.9599991
+Electronics,Eastern Europe,Budapest,Same Day,0,0,0,-68.27999878,127.9599991
+Electronics,Western Europe,Erftstadt,Same Day,0,0,0,107.9800034,224.9499969
+Electronics,Western Europe,Bayonne,Same Day,0,0,0,-40.59999847,239.9499969
+Consumer Electronics,Western Europe,Berl�n,Second Class,4,2,2,65.55000305,252.8800049
+Consumer Electronics,Northern Europe,London,Second Class,4,2,2,103.5500031,252.8800049
+Consumer Electronics,Southern Europe,Barcelona,Second Class,4,2,2,80.11000061,252.8800049
+Electronics,Western Europe,Munich,Second Class,2,2,0,21.26000023,44.99000168
+Electronics,Western Europe,Hildesheim,Standard Class,5,4,1,87.95999908,224.9499969
+Electronics,Eastern Europe,Gubkin,Standard Class,3,4,-1,70.54000092,159.9499969
+Electronics,Northern Europe,Rugby,Standard Class,4,4,0,74.37999725,159.9499969
+Electronics,Western Europe,Viena,Standard Class,5,4,1,84.80999756,259.9500122
+Electronics,Southern Europe,Cartagena,Standard Class,3,4,-1,-212.4100037,159.9499969
+Electronics,Southern Europe,Naples,Standard Class,5,4,1,40.31000137,159.9499969
